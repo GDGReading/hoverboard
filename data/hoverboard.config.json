@@ -1,14 +1,14 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-11-09T09:00:00+03:00",
+  "endDate": "2017-11-10T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Reading and Thames Valley",
+    "twitter": "gdgreading"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -32,7 +32,7 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "devfest2017",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -63,8 +63,8 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGRdgTV",
+      "url": "https://twitter.com/gdgreading"
     },
     {
       "name": "gplus",
@@ -84,9 +84,9 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "GROW @ Green Park",
+    "address": "250 S Oak Way, Reading RG2 6UG",
+    "link": "https://growgreenpark.spaces.nexudus.com/en",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,
@@ -120,11 +120,7 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
+        "video": null,
         "hideLogo": true,
         "minHeight": "360px"
       }

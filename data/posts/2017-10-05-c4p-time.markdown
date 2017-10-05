@@ -1,0 +1,67 @@
+Reading and Thames Valley Google Developers Groups are proud to announce our annual DevFest 2017 on the 18th of November in Greenpark, Reading!!
+
+### What to expect
+
+* Previous events have seen up to 100 attendees from the Thames Valley area and speakers from all over the world.
+* 2 parallel tracks dedicated to **Android**, **Web** & **Cloud** technologies. This year will see a special focus on the technologies and hype behind chatbots with a chance to develop your own chatbot and a real opportunity to win one of several Google Homes!
+* You will have a chance to meet local technology companies focusing on Cloud, mobile, web and AI. Meet the Pepper robot  from Volume.ai  and find out about how they see these robots entering the business environment. Meet Hu:toma, recently voted by Wired Magazine as a startup to watch in Barcelona, with a local arm here in Reading.
+
+So hurry up to book your slot to the Reading and Thames Valley DevFest where you can spend a day geeking out, meeting like-minded people and learning in a fun environment. You even get some bonus networking over the weekend and not to mention free food and drinks!
+
+### Festival organizers
+
+[Google Developer Group Reading and Thames Valley](https://www.meetup.com/GDG-Reading-Thames-Valley/)
+
+By the way, it’s pleasure to announce that [call for papers](https://goo.gl/hXSuhR) is opened! Apply and share your knowledge and experience with our community.
+
+Please see our [event last year](https://reading-gdg.appspot.com/) for sample agendas.
+
+### Why is it cool to be a speaker?
+
+Well, do you know a better way to attend the conference? Here are our top 3 reasons to submit a proposal.
+
+1. **It is good for your career.** By being a speaker, you are proving your level of expertise to a potential business partners or employers.
+2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
+3. **Unique networking.** Being a speaker means you’ll have unique chance to network with other speakers - the best experts in the industry.
+
+### Themes and topics – what do we expect?
+
+Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+
+#### Android
+* New features in N (multi-window, notifications, Java 8)
+* Kotlin
+* RxJava
+* Data Binding
+* Testing and Architecture best practices (MVP, MVVP, Clean Architecture)
+
+#### Web
+* Progressive Web Apps
+* Polymer
+* Service Workers
+* Physical Web
+* RAIL
+
+#### Cloud
+* Machine Learning (TensorFlow, Vision API, Speech API, etc.)
+* Big Data (PubSub, BigQuery, Dataflow)
+* Firebase
+* Kubernetes
+
+<br/>
+
+**Call for Papers will stay open until July 3, 2016.** Don’t miss out :)
+
+<div class="text-center">
+<a href="http://bit.ly/df16-c4p" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+<br/>
+
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until July 17, 2016.
+
+Any questions? Email organizers at [gdgreading@gmail.com](mailto:gdgreading@gmail.com)
+
+
+
