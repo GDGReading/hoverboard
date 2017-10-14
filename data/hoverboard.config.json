@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdg-rtv-devfest2017",
+    "domain": "devfest2017-df0c9.firebaseapp.com",
+    "database": "https://devfest2017-df0c9.firebaseio.com",
+    "api": "AIzaSyAKKgsxJnh6-dT8Rq9A7muOsJX0sjEhbRA",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -68,18 +68,8 @@
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
-    },
-    {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG Reading and Thames Valley",
+      "url": "https://plus.google.com/114875932755046206016"
     }
   ],
   "location": {
@@ -88,13 +78,13 @@
     "address": "250 S Oak Way, Reading RG2 6UG",
     "link": "https://growgreenpark.spaces.nexudus.com/en",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 51.420142,
+      "longitude": -0.987641,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 51.420142,
+      "longitude": -0.987641
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +93,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.meetup.com/GDG-Reading-Thames-Valley/photos/all_photos/?photoAlbumId=27434048",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
