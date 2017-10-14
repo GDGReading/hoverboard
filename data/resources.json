@@ -1,22 +1,19 @@
 {
   "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "description": "The biggest Google tech day in the Thames Valley crafted for you by GDG community! All about Google Cloud, Machine Learning, Android and the Web",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "November 18 2017",
   "locationAddressShort": "GROW @ Green Park",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Reserve!",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
   "close": "Close",
-  "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
   "socialMotto": "Add to circles, like, follow or connect with us on",
   "beforeHashtag": "What's up",
@@ -92,15 +89,15 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Reading and Thames Valley](https://www.meetup.com/GDG-Reading-Thames-Valley/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Thames Valley audience to boost development.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": "100+",
       "caption": "Attendees"
     },
     {
-      "counter": 30,
+      "counter": 10,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 2,
       "caption": "Tracks"
     }
   ]

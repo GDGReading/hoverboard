@@ -138,9 +138,6 @@
                   {$ playIcon $}
                 </div>
               {% endif %}
-              <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{$ buyTicket $}</paper-button>
-              </div>
             </div>
           </div>
         </animatable-content>
@@ -190,15 +187,6 @@
             '{$ pages.home.headerSettings.video.youtubeId $}', true);
           HOVERBOARD.Analytics.trackEvent('video', 'watch', '{$ pages.home.headerSettings.video.title $}');
         },
-
-        _scrollToTickets: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          Polymer.AppLayout.scroll({
-            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
-            behavior: 'smooth',
-            target: HOVERBOARD.Elements.Scroller
-          });
-        }
 
       });
 
