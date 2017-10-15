@@ -141,13 +141,6 @@
             </div>
           </div>
         </animatable-content>
-        <animatable-content name="blog">
-          <div class="container">
-            <h3 class="page-title" hidden$="{{app.headerSettings.title}}">{$ pages.blog.title $}</h3>
-            <h3 class="page-title" hidden$="{{!app.headerSettings.title}}">[[app.headerSettings.title]]</h3>
-            <div class="page-subtitle" hidden$="{{!app.headerSettings.subtitle}}">[[app.headerSettings.subtitle]]</div>
-          </div>
-        </animatable-content>
         {% for page, settings in pages %}
           {% if page !== 'home' and page !== 'blog' %}
             <animatable-content name="{$ page $}">
