@@ -35,8 +35,8 @@
   "hashtag": "devfest2017",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "mailto:gdgreading@gmail.com?subject=Partner%20Enquiry",
+  "videosSessionsUrl": null,
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -83,9 +83,9 @@
       "longitude": -0.987641
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/grow@greenpark-room.png",
+      "/images/backgrounds/grow@greenpark-meeting.png",
+      "/images/backgrounds/grow@greenpark-pod.png"
     ]
   },
   "gallery": {
@@ -103,7 +103,7 @@
       "title": "Home",
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/devfest_full_color.svg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": null,

@@ -11,12 +11,10 @@
   <link rel="import" href="../elements/call-to-action.html">
 {% endif %}
 <link rel="import" href="../elements/about-block.html">
-<link rel="import" href="../elements/latest-posts.html">
 <link rel="import" href="../elements/footer-block.html">
 {% if gallery %}
   <link rel="import" href="../elements/photo-block.html">
 {% endif %}
-<link rel="import" href="../elements/social-feed.html">
 <link rel="import" href="../elements/logos-block.html">
 <link rel="import" href="../elements/map-block.html">
 
@@ -34,11 +32,6 @@
       <call-to-action app="{{app}}" cascaded></call-to-action>
     {% endif %}
     <about-block app="{{app}}" cascaded></about-block>
-    {% if gallery %}
-      <photo-block app="{{app}}" cascaded></photo-block>
-    {% endif %}
-    <latest-posts app="{{app}}" posts="{{posts}}" cascaded></latest-posts>
-    <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
     <logos-block app="{{app}}" cascaded></logos-block>
     <footer-block app="{{app}}" cascaded></footer-block>

@@ -71,7 +71,15 @@
 
       .logo {
         width: 240px;
-        min-height: 80px;
+        min-height: 60px;
+      }
+
+      .season {
+        margin-top: 0px;
+        margin-bottom: 20px;
+        margin-left: 40px;
+        font-size: 30px;
+        line-height: 1;
       }
 
       .dates {
@@ -128,8 +136,9 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
+              <iron-image class="logo" src="/images/gdg-logo-devfest-trim.png" sizing="contain"
                           alt="GDG DevFest Reading and Thames Valley 2017"></iron-image>
+              <h2 class="season">{$ season $}</h2>
               <h3 class="dates">{$ dates $}</h3>
               <h2 class="motto">{$ motto $}</h2>
               {% if pages.home.headerSettings.video %}

@@ -148,7 +148,6 @@
                 <iron-icon icon="icons:location" item-icon></iron-icon>
                 <paper-item-body two-line>
                   <div>{$ locationAddress $}</div>
-                  <div secondary>{$ locationAddressShort $}</div>
                 </paper-item-body>
               </paper-icon-item>
             </div>
@@ -160,6 +159,7 @@
               >
                 <paper-icon-button icon="icons:directions"></paper-icon-button>
               </a>
+              <span secondary><a href="${ locationUrl }" target="_blank" rel="noopener noreferrer">{$ locationAddressShort $}</a></div>
             </div>
           </div>
         </paper-card>
