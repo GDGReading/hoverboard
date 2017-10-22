@@ -1,30 +1,39 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
+      "logoUrl" : "/images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     }, {
-      "logoUrl" : "../images/logos/grow@greenpark.png",
-      "name" : "Grow @ GreenPark",
-      "url" : "https://growgreenpark.spaces.nexudus.com/en"
-    } ],
-    "title" : "Primary Partners"
-  }, {
-    "logos" : [ ],
+      "logoUrl" : "/images/logos/connect_tvt.png",
+      "name" : "ConnectTVT",
+      "url" : "https://www.connecttvt.co.uk/"
+    }, {
+      "logoUrl" : "/images/logos/priocept_logo.png",
+      "name" : "Priocept",
+      "url" : "http://priocept.com/"
+    }, {
+      "logoUrl" : "/images/logos/utc_reading_logo.png",
+      "name" : "UTC",
+      "url" : "http://www.utcreading.co.uk/"
+    }],
     "title" : "Sponsors"
   } ],
   "schedule" : [ {
     "date" : "2017-11-18",
     "dateReadable" : "November 18",
     "timeslots" : [ {
+      "startTime": "09:15",
+      "endTime": "09:55",
+      "sessions": [ [ 110 ]]
+    }, {
       "startTime" : "10:00",
       "endTime" : "10:40",
       "sessions" : [ [ 101 ], [ 201 ] ]
     }, {
       "startTime" : "10:45",
       "endTime" : "10:55",
-      "sessions" : [ [ 131 ] ]
+      "sessions" : [ [ 131 ], [ ] ]
     }, {
       "startTime" : "11:00",
       "endTime" : "11:40",
@@ -32,7 +41,7 @@
     }, {
       "startTime" : "11:45",
       "endTime" : "11:55",
-      "sessions" : [ [ 141 ] ]
+      "sessions" : [ [ 241 ], [ ] ]
     }, {
       "startTime" : "12:00",
       "endTime" : "12:40",
@@ -55,138 +64,133 @@
         "sessions": [ [ 112] ]
     } ],
     "tracks" : [ {
-      "title" : "Main Hall"
+      "title" : "Room 1"
     }, {
       "title" : "Training Room"
     } ]
   } ],
   "sessions" : {
-    "101" : {
-      "complexity" : "Beginner",
-      "description" : "Seldon - In contact with Inga and Andrew. We should have a speaker from them . ",
-      "id" : 101,
-      "language" : "English",
-      "speakers" : [ 1, 2, 3 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Seldon"
+    "110": {
+      "title": "Tea, coffee, registration (pick up your swagbag!)",
+      "id": 110
+    },
+    "101": {
+      "complexity": "Beginner",
+      "description": "Building a chatbot from scratch using TensorFlow and explaining how chatbots actually work.",
+      "id": 101,
+      "speakers": [ 2 ],
+      "tags": [ "ml", "TensorFlow", "NLP" ],
+      "title": "The ML behind Chatbots: under the hood"
     },
     "201" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description": "¡Attención por favor! After attending this event you will be very confident in Android interviews. If you want to get the cheat sheet, learn about trending Android technologies (Kotlin, RxJava) and best practices, about organizational cultures in Android teams, don't miss this session! ",
       "id" : 201,
-      "language" : "English",
       "speakers" : [ 4 ],
-      "tags" : [ "Android" ],
-      "title" : "Tech trend including rx, kotlin, etc. and how to be successful in an android interview"
+      "tags" : [ "android", "Kotlin", "Rx", "Community" ],
+      "title" : "Tech trends in Android and how to crack Android interviews"
     },
     "102" : {
       "complexity" : "Intermediate",
-      "description" : "",
+      "description" : "Artificial Intelligence/Machine Learning is the new, exciting thing - we're going to lean how it works, and how to apply it in real world situations including games, chatbots, and image recognition.",
       "id" : 102,
-      "language" : "English",
-      "speakers" : [ 5 ],
-      "tags" : [ "ML" ],
-      "title" : "Unity ML - Joe Reeve - confirmed"
+      "speakers" : [ 3 ],
+      "tags" : [ "ai", "ml", "Unity" ],
+      "title" : "Unity ML"
     },
     "202" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 202,
-      "language" : "English",
-      "speakers" : [ 6 ],
-      "tags" : [ "ML" ],
-      "title" : "Alex Cowan (Florian) Inception - TBC"
+      "speakers" : [ 11 ],
+      "tags" : [ "cloud", "ml" ],
+      "title" : "TBA"
     },
     "103" : {
       "complexity" : "Intermediate",
       "description" : "",
       "id" : 103,
-      "language" : "English",
-      "speakers" : [ 7 ],
-      "tags" : [ "Assistant" ],
-      "title" : "Google Actions - Steven Gray (steven.james.gray@gmail.com) confirmed"
+      "speakers" : [ 5 ],
+      "tags" : [ "google-assistant", "Actions", "Chatbot" ],
+      "title" : "Building conversational experiences with Actions on Google"
     },
     "203" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "Covers the business cases for using chatbots and robots, how to take these systems to production and tools for giving customers visibility. ",
       "id" : 203,
-      "language" : "English",
-      "speakers" : [ 8 ],
-      "tags" : [ "Robotics" ],
-      "title" : "Chris Sykes/ Benoit Alvarez - Lusy, Cody and Artisan/Corpus product + Pepper robot"
+      "speakers" : [ 9 ],
+      "tags" : [ "Chatbot", "Production" ],
+      "title" : "Introducing chatbots and robotic systems to businesses"
     },
     "111" : {
       "id" : 111,
-      "language" : "English",
-      "speakers" : [  ],
-      "tags" : [  ],
+      "image": "/images/backgrounds/lunch.jpg",
       "title" : "Lunch"
     },
     "121" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 121,
-      "language" : "English",
-      "presentation": "http://nilhcem.com/android-things/google-assistant-smart-home",
-      "speakers" : [ 9 ],
-      "tags" : [ "Assistant" ],
-      "title" : "Google Actions codelab"
+      "speakers" : [ 5 ],
+      "tags" : [ "google-assistant", "Actions", "Chatbot", "CodeLab" ],
+      "title" : "Building your first assistant"
     },
     "221" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 221,
-      "language" : "English",
       "presentation": "https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.html?index=..%2F..%2Findex",
-      "speakers" : [ 10 ],
-      "tags" : [ "Web" ],
-      "title" : "Cloud Functions and Firebase codelab"
+      "speakers" : [  ],
+      "tags" : [ "web", "Firebase", "CloudFunctions", "CodeLab" ],
+      "title" : "Cloud Functions and Firebase"
     },
     "122" : {
       "complexity" : "Intermediate",
       "description" : "",
       "id" : 122,
-      "language" : "English",
-      "speakers" : [ 6 ],
-      "tags" : [ "DevOps" ],
-      "title" : "Chris Guest - extended chatbot session (with prizes)"
+      "presentation": "https://www.meetup.com/GDG-Reading-Thames-Valley/events/243095838/",
+      "speakers" : [ 8 ],
+      "tags" : [ "cloud", "StackDriver", "Python", "CodeLab" ],
+      "title" : "Building, Hosting and Monitoring a web service with GCP and Stackdriver"
     },
     "222" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 222,
-      "language" : "English",
       "presentation" : "https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=..%2F..%2Findex#0",
-      "speakers" : [ 7 ],
-      "tags" : [ "ML" ],
-      "title" : "TF or Cloud ML/ Data"
-    },
-    "112" : {
-      "complexity" : "n/a",
-      "description" : "",
-      "id" : 112,
-      "language" : "English",
-      "speakers" : [  ],
-      "tags" : [ "Android" ],
-      "title" : "Wrap-up and Prizes"
+      "speakers" : [ 10 ],
+      "tags" : [ "ml", "cloud" ],
+      "title" : "Serverless Machine Learning"
     },
     "131" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 131,
-      "language" : "English",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Lightning Talk - Dan - Priocep (Atif?)"
+      "speakers" : [ 14 ],
+      "tags" : [ "cloud" ],
+      "title" : "Lightning Talk"
+    },
+    "241" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 231,
+      "speakers" : [ 17 ],
+      "tags" : [ "web" ],
+      "title" : "Lightning Talk - AR in the browser"
     },
     "141" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 141,
-      "language" : "English",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
+      "speakers" : [  ],
+      "tags" : [ "android" ],
       "title" : "Lightning Talk - ???"
+    },
+    "112" : {
+      "description" : "",
+      "id" : 112,
+      "speakers" : [  ],
+      "title" : "Wrap-up and Prizes"
     }
   },
   "speakers" : [ {
@@ -197,10 +201,10 @@
     "photoUrl" : "/images/people/ming_gao.jpg",
     "shortBio" : "Ming Gao, Senior Data Scientist at UserReplay, where he is leading data science practice and building analytical products.",
     "bio": "Ming Gao, Senior Data Scientist at UserReplay, where he is leading data science practice and building analytical products. Prior to UserReplay, he was a management consultant at AlixPartners and R&D manager at DigitalMR. He holds a PhD from Reading University on the modelling and analysis of imbalanced data problems. He is passionate about utilizing machine learning and advanced analytics to solve complex real-world problems and making impact in industry",
-    "tags" : [ "Data Science", "ML" ],
+    "tags" : [ "Data Science", "ml" ],
     "socials" : [ {
       "icon" : "twitter",
-      "link" : "???",
+      "link" : "",
       "name" : "Twitter"
     }, {
       "icon": "linkedin",
@@ -208,16 +212,17 @@
       "name": "LinkedIn"
     } ]
   }, {
-    "name": "Joe Reeves",
+    "name": "Joe Reeve",
     "id" : 3,
     "title" : "Freelance consultant",
-    "photoUrl" : "/images/people/joe_reeves.jpg",
+    "company": "",
+    "photoUrl" : "/images/people/joe_reeve.jpg",
     "bio": "Joe is a freelance consultant who uses IT to solve business' problems. He also organises and speak at various events on many topics, including Photography, Web Development, and Problem Solving.",
     "shortBio" : "Joe is a freelance consultant who uses IT to solve business' problems",
-    "tags" : [ "Web", "AR", "ML" ],
+    "tags" : [ "web", "AR", "ml" ],
     "socials" : [ {
       "icon" : "twitter",
-      "link" : "???",
+      "link" : "",
       "name" : "Twitter"
     } ]
   }, {
@@ -226,128 +231,171 @@
     "title" : "Android Developer",
     "company" : "Blenheim Chalcot",
     "photoUrl" : "/images/people/kubra-face.jpg",
-    "shortBio" : "???",
-    "tags" : [ "Android", "GDG" ],
+    "bio": "Kübra founded her startup Innova Ocean Limited and she is a Mobile and Agile Consultant in London. She develops user friendly and performant mobile applications in a wide range of sectors. She is obsessed with code quality, team work and trending technologies. Kübra has been a Google Developer Groups Lead for 4 years and a Women Techmakers Lead for 2 years. She loves sharing experiences with communities all around the world. She has special interests in Agile Methodologies and Scrum Framework",
+    "shortBio" : "Kübra is a Mobile and Agile Consultant in London; Women Techmaker and GDG lead.",
+    "tags" : [ "android", "GDG" ],
     "socials" : [ {
       "icon": "linkedin",
       "link": "https://www.linkedin.com/in/kubraharmankaya/",
       "name": "LinkedIn"
+    }, {
+      "icon": "website",
+      "link": "http://innovaocean.com/",
+      "name": "Innova Ocean"
     } ]
   }
-  , {
-    "name": "Steven Gray",
-    "id" : 5,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
-      "tags" : [ "???" ],
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "???",
-        "name" : "Twitter"
-      } ]
-  }, {
+  ,
+    {
+      "name": "Steven Gray",
+      "badges": [
+        {
+          "description": "Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/steven-gray",
+          "name": "GDE"
+        }
+      ],
+      "id": 5,
+      "title": "Senior Teaching Fellow",
+      "company": "Big Data Analytics",
+      "photoUrl": "/images/people/steven_gray.jpg",
+      "bio": "A hard working, self-motivated, software engineer with over 10 years professional experience in both commercial and research settings who enjoys working as one or as part of a dedicated team, applying my knowledge to new situations. I enjoy teaching others, learning new skills and playing an active part in projects undertaken. Keen to find elegant, precise and effective solutions to problems that arise. I maintain an acute attention to detail and am able to learn new technologies and languages quickly. An excellent communicator who has an energetic personality and strives to improve his skills continually.",
+      "shortBio": "I enjoy teaching others, learning new skills and playing an active part in projects undertaken.",
+      "tags": [
+        "Big Data Analytics",
+        "Teaching",
+        "Cloud Computing"
+      ],
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/stevenjamesgray/",
+          "name": "LinkedIn"
+        }
+      ]
+    }, {
     "name": "Nana Fifield",
     "id" : 6,
       "title" : "Head of Product Development",
       "company" : "Sage",
       "photoUrl" : "/images/people/nana_fifield.jpg",
-      "shortBio" : "???",
+      "bio" : "Nana has extensive Software Engineering and Management expertise, spanning 20+ years, gained while working in numerous and diverse industries including telecommunications, investment banking, aerospace, software education and business operations management",
+      "shortBio" : "Nana is a GDG Lead and the head of product development at Sage",
       "tags" : [ "IoT", "GDG" ],
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/NanaFifield",
         "name" : "Twitter"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nfifield/",
+        "name": "LinkedIn"
       } ]
   }, {
-      "name": "Les Emtage",
+      "name": "Les Emptage",
       "id" : 7,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
+      "title" : "",
+      "company" : "Neptune Navigation",
+      "photoUrl" : "",
+      "bio" : "",
+      "shortBio" : "",
       "tags" : [ "Marine Cartography", "IoT" ],
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "???",
+        "link" : "",
         "name" : "Twitter"
       } ]
   }, {
     "name": "Chris Guest",
     "id" : 8,
-      "title" : "???",
-      "company" : "???",
+      "title" : "SRE",
+      "company" : "Hu:Toma",
       "photoUrl" : "/images/people/chris_guest.png",
-      "shortBio" : "???",
-      "tags" : [ "DevOps", "GDG" ],
+      "bio" : "Highly motivated and dedicated Engineer, with domain knowledge ranging from IPTV to Games and Anti-Virus. Passionate about product & service engineering with broad multi-discipline experience of Development, Test and Operations. Demonstrated leadership and technical skills with confidence to engage at all levels of an organisation. Holds an ethos for continuous personal improvement and learning, whilst understanding that it is important to achieve this within a community peers",
+      "shortBio" : "Highly motivated and dedicated Engineer, with domain knowledge ranging from IPTV to Games and Anti-Virus. Passionate about product & service engineering with broad multi-discipline experience of Development, Test and Operations. Demonstrated leadership and technical skills with confidence to engage at all levels of an organisation. Holds an ethos for continuous personal improvement and learning, whilst understanding that it is important to achieve this within a community peers",
+      "tags" : [ "dev-ops" ],
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/GuestChris",
         "name" : "Twitter"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/chris-guest-7676793/",
+        "name": "LinkedIn"
       } ]
   }, {
     "name": "Benoit Alvarez",
     "id" : 9,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
-      "tags" : [ "???" ],
+      "title" : "CTO",
+      "company" : "Volume",
+      "photoUrl" : "/images/people/benoit_alvarez.jpg",
+      "bio" : "",
+      "shortBio" : "",
+      "tags" : [ "ai", "ml", "Mobile" ],
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "???",
-        "name" : "Twitter"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/benoitalvarez/",
+        "name" : "LinkedIm"
       } ]
   }, {
     "name": "Atif Khan",
     "id" : 10,
-      "title" : "???",
+      "title" : "Radio Network and Optimisation Engineer",
       "company" : "Huawei",
       "photoUrl" : "/images/people/atif_khan.jpg",
-      "shortBio" : "???",
-      "tags" : [ "???", "GDG" ],
-      "socials" : [  ]
+      "bio" : "Senior Radio and Access Transmission Engineer with over nine years experience in functionality, strategy, architecture, optimisation, characterisation, end 2 end performance, software testing, operations etc. Experience with three different operators (Ericsson, Alcatel Lucent/ Nortel, Nokia) on two different Radio Networks (GSM and UMTS) across radio and access transmission domain.",
+      "shortBio" : "Senior Radio and Access Transmission Engineer with over nine years experience in functionality, strategy, architecture, optimisation, characterisation, end 2 end performance, software testing, operations etc. Experience with three different operators (Ericsson, Alcatel Lucent/ Nortel, Nokia) on two different Radio Networks (GSM and UMTS) across radio and access transmission domain.",
+      "tags" : [ "Radio Networks", "GDG" ],
+      "socials" : [ {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/atif-khan-a251411/",
+        "name": "LinkedIn"
+      } ]
   }, {
-    "name": "???",
+    "name": "Seldon",
     "id" : 11,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
-      "tags" : [ "???" ],
+      "title" : "",
+      "company" : "Seldon",
+      "photoUrl" : "",
+      "bio" : "",
+      "tags" : [ "ml" ],
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "???",
+        "link" : "https://twitter.com/seldon_io?lang=en",
+        "name" : "Twitter"
+      }, {
+        "icon": "website",
+        "link": "https://www.seldon.io/",
+        "name": "seldon"
+      } ]
+  }, {
+    "name": "Dan Norris-Jones",
+    "id" : 14,
+      "title" : "Director and co-founder",
+      "company" : "Priocept",
+      "photoUrl" : "/images/people/dan_norris_jones.jpg",
+      "bio": "Co-founder of Priocept. Software engineer, mechanical engineer, pilot, race driver, hunter/guardian of old Porsches",
+      "shortBio" : "Co-founder of Priocept. Software engineer, mechanical engineer, pilot, race driver, hunter/guardian of old Porsches",
+      "tags" : [ "" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dannorrisjones?lang=en",
         "name" : "Twitter"
       } ]
   }, {
-    "name": "???",
-    "id" : 12,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
-      "tags" : [ "???" ],
+      "name": "Mark Oppenheim",
+      "id" : 17,
+      "title" : "Freelance Developer",
+      "company" : "Lodgical",
+      "photoUrl" : "/images/people/mark_oppenheim.jpg",
+      "bio": "",
+      "shortBio" : "",
+      "tags" : [ "web", "android" ],
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "???",
-        "name" : "Twitter"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/markoppenheim",
+        "name" : "LinkedIn"
       } ]
-  }, {
-    "name": "Mark Oppenheim",
-    "id" : 13,
-      "title" : "???",
-      "company" : "???",
-      "photoUrl" : "???",
-      "shortBio" : "???",
-      "tags" : [ "???" ],
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "???",
-        "name" : "Twitter"
-      } ]
-  }
+    }
   ],
   "team" : [ {
     "members" : [ {
@@ -357,12 +405,20 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/perushamoodley",
         "name" : "Twitter"
+      },{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/perusha-moodley/",
+        "name": "LinkedIn"
       } ],
       "title" : "Co-Organiser, ML Specialist"
     }, {
       "name" : "Atif Khan",
       "photoUrl" : "/images/people/atif_khan.jpg",
-      "socials" : [ ],
+      "socials" : [ {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/atif-khan-a251411/",
+        "name": "LinkedIn"
+      } ],
       "title" : "Co-Organiser"
     }, {
       "name" : "Chris Guest",
@@ -371,6 +427,10 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/GuestChris",
         "name" : "Twitter, DevOps specialist"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/chris-guest-7676793/",
+        "name": "LinkedIn"
       } ],
       "title" : "Co-Organiser"
     }, {
@@ -380,6 +440,10 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/NanaFifield",
         "name" : "Twitter"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nfifield/",
+        "name": "LinkedIn"
       } ],
       "title" : "Co-Organiser, IoT specialist"
     }, {
@@ -395,20 +459,17 @@
       "name" : "Louize Clarke",
       "photoUrl" : "/images/people/louize_clarke-face.jpg",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
+        "link" : "https://twitter.com/LouizeClarke",
         "name" : "Twitter"
+      },{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/louize/",
+        "name": "LinkedIn"
       } ],
       "title" : "Co-Organiser, Grow@GreenPark"
     } ],
     "title" : "Core Team"
-  }, {
-    "members" : [  ],
-    "title" : "Program Committee"
   } ],
   "tickets" : {
     "url" : "https://www.meetup.com/GDG-Reading-Thames-Valley/events/243956732/"

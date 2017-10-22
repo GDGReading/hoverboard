@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="129px" viewBox="0 0 80 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_lockup_gdg_horizontal_wht</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="98.7985294%" cy="97.9036527%" fx="98.7985294%" fy="97.9036527%" r="325.466912%" gradientTransform="translate(0.987985,0.979037),scale(1.000000,0.719958),translate(-0.987985,-0.979037)" id="radialGradient-1">
+            <stop stop-color="#BF360C" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#BF360C" stop-opacity="0.02" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="162.571513%" cy="157.70665%" fx="162.571513%" fy="157.70665%" r="262.641554%" gradientTransform="translate(1.625715,1.577067),scale(1.000000,0.693186),translate(-1.625715,-1.577067)" id="radialGradient-2">
+            <stop stop-color="#263238" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#263238" stop-opacity="0.02" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="-1.24996094%" cy="0.78125%" fx="-1.24996094%" fy="0.78125%" r="167.932627%" gradientTransform="translate(-0.012500,0.007812),scale(1.000000,0.625020),translate(0.012500,-0.007812)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo_lockup_gdg_horizontal_wht" transform="translate(-1.000000, 0.000000)">
+            <g id="XMLID_50_">
+                <g id="XMLID_72_">
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="XMLID_80_" fill="#FFC107" fill-rule="nonzero" points="60.09 102.54 49.46 84.15 23.94 128.27 45.79 128.27 60.38 103.04"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="Shape" fill="#0F9D58" fill-rule="nonzero" points="37.96 64.27 49.46 84.15 23.94 128.27 0.94 128.27"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="Shape" fill="#BF360C" fill-rule="nonzero" opacity="0.2" points="45.79 127.27 24.52 127.27 23.94 128.27 45.79 128.27 60.38 103.04 60.09 102.54"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="Shape" fill="#263238" fill-rule="nonzero" opacity="0.2" points="1.52 127.27 0.94 128.27 23.94 128.27 24.52 127.27"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.2" points="0.94 128.27 1.52 128.27 38.25 64.77 37.96 64.27"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="XMLID_79_" fill="url(#radialGradient-1)" fill-rule="nonzero" points="60.38 103.04 60.38 103.04 49.46 84.15 46.78 88.78"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="XMLID_78_" fill="url(#radialGradient-2)" fill-rule="nonzero" points="46.78 88.78 49.46 84.15 37.96 64.27 32.47 73.77"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <g id="XMLID_75_" fill-rule="nonzero" fill="#4285F4">
+                        <g id="XMLID_76_">
+                            <polygon id="XMLID_77_" points="23.94 0.27 0.94 0.27 60.38 103.04 71.87 83.17 71.88 83.15"></polygon>
+                        </g>
+                    </g>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <path d="M79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 L45.79,0.27 L23.94,0.27 L71.88,83.15 L79.33,70.27 Z" id="Shape" fill="#DB4437" fill-rule="nonzero"></path>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <polygon id="Shape" fill="#1A237E" fill-rule="nonzero" opacity="0.2" points="71.88 83.15 71.59 82.66 60.38 102.04 1.52 0.27 0.94 0.27 60.38 103.04 71.87 83.17"></polygon>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <path d="M45.79,1.27 L79.33,59.27 C80.32,60.98 80.83,62.87 80.91,64.77 C81,62.53 80.49,60.27 79.33,58.27 L45.79,0.27 L0.94,0.27 L1.52,1.27 L45.79,1.27 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.2"></path>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <path d="M71.88,83.15 L79.33,70.27 C80.49,68.27 81,66.01 80.91,63.77 C80.83,65.67 80.32,67.56 79.33,69.27 L71.59,82.66 L71.88,83.15 Z" id="XMLID_74_" fill="#3E2723" fill-rule="nonzero" opacity="0.2"></path>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="Shape"></path>
+                    <path d="M79.33,58.27 L45.79,0.27 L0.94,0.27 L37.96,64.27 L0.94,128.27 L45.79,128.27 L79.33,70.27 C81.48,66.56 81.48,61.98 79.33,58.27 Z" id="XMLID_73_" fill="url(#radialGradient-3)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
