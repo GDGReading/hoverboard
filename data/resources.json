@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Season 2017",
-  "description": "The biggest Google tech day in the Thames Valley crafted for you by GDG community! All about Google Cloud, Machine Learning, Android and the Web",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "description": "The biggest Google tech day in the Thames Valley crafted for you by the GDG community! All about Google Cloud, Machine Learning, Android and the Web",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, Reading, UK",
   "dates": "November 18 2017",
   "locationAddressShort": "GROW @ Green Park",
   "season": "Season 2017",
@@ -30,11 +30,11 @@
   "locationDescription": "A co-working space with a beating heart and a vibrant eco-system. Designed for you. It’s not just a desk - you join a community, build relationships, grow your business. We’re about people. This is a place to collaborate. Who knows what magic can happen? Our purpose is to inspire and connect passionate, like-minded people who want to make a difference through their business.",
   "locationAddress": "250 S Oak Way, Reading RG2 6UG",
   "locationUrl": "https://growgreenpark.spaces.nexudus.com",
-  "organizerTitle": "Organizer",
+  "organizerTitle": "Organisers",
   "aboutOrganizers": "<a href='https://www.meetup.com/GDG-Reading-Thames-Valley/members/?op=leaders' target='_blank'>GDG Reading and Thames Valley</a>",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "whatIsGdg": "What is a GDG?",
+  "aboutGdg": "Google Developer Groups (GDGs) are open and volunteer organised geek communities who create exciting projects and share experiences about Google technologies with a passion",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -88,7 +88,7 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Reading and Thames Valley](https://www.meetup.com/GDG-Reading-Thames-Valley/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Thames Valley audience to boost development.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For most users, theses services \"just work\", but not for us! Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Reading and Thames Valley](https://www.meetup.com/GDG-Reading-Thames-Valley/) is an open and volunteer organised geek community that creates exciting projects and shares experiences about Google technologies with a passion.<br><br> Our goal is to provide a space to connect the best industry experts with the Thames Valley audience to boost our local development community.",
   "statistics": [
     {
       "counter": "100+",
