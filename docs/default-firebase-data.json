@@ -24,7 +24,7 @@
     }, {
       "startTime" : "10:45",
       "endTime" : "10:55",
-      "sessions" : [ [ 131, 132, 133 ] ]
+      "sessions" : [ [ 131 ] ]
     }, {
       "startTime" : "11:00",
       "endTime" : "11:40",
@@ -47,10 +47,13 @@
       "sessions" : [ [ 121 ], [ 221 ] ]
     }, {
       "startTime" : "15:00",
-      "endTime" : "6:30",
+      "endTime" : "16:30",
       "sessions" : [ [ 122 ], [ 222 ] ]
-    }
-    ],
+    }, {
+        "startTime": "16:30",
+        "endTime": "17:00",
+        "sessions": [ [ 112] ]
+    } ],
     "tracks" : [ {
       "title" : "Main Hall"
     }, {
@@ -174,25 +177,7 @@
       "language" : "English",
       "speakers" : [ 9 ],
       "tags" : [ "Android" ],
-      "title" : "Lightning Talk - Dan"
-    },
-    "132" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 132,
-      "language" : "English",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Lightning Talk - Priocep"
-    },
-    "133" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 133,
-      "language" : "English",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Lightning Talk - Atif"
+      "title" : "Lightning Talk - Dan - Priocep (Atif?)"
     },
     "141" : {
       "complexity" : "Beginner",
@@ -205,31 +190,165 @@
     }
   },
   "speakers" : [ {
-    "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-    "company" : "Gett",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Tel Aviv, Israel",
-    "featured" : true,
+    "name": "Ming Gao",
     "id" : 2,
-    "name" : "Yonatan Harmankaya",
-    "photoUrl" : "/images/people/Yonatan.jpeg",
-    "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+    "title" : "Senior Data Scientist",
+    "company" : "UserReplay",
+    "photoUrl" : "/images/people/ming_gao.jpg",
+    "shortBio" : "Ming Gao, Senior Data Scientist at UserReplay, where he is leading data science practice and building analytical products.",
+    "bio": "Ming Gao, Senior Data Scientist at UserReplay, where he is leading data science practice and building analytical products. Prior to UserReplay, he was a management consultant at AlixPartners and R&D manager at DigitalMR. He holds a PhD from Reading University on the modelling and analysis of imbalanced data problems. He is passionate about utilizing machine learning and advanced analytics to solve complex real-world problems and making impact in industry",
+    "tags" : [ "Data Science", "ML" ],
     "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/levin.yonatan",
-      "name" : "Facebook"
-    }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/parahall",
+      "link" : "???",
       "name" : "Twitter"
     }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+YonatanLevin",
-      "name" : "Google+"
-    } ],
-    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-    "title" : "Android Evangelist & Developer"
-  } ],
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/ming-gao-a3759257/",
+      "name": "LinkedIn"
+    } ]
+  }, {
+    "name": "Joe Reeves",
+    "id" : 3,
+    "title" : "Freelance consultant",
+    "photoUrl" : "/images/people/joe_reeves.jpg",
+    "bio": "Joe is a freelance consultant who uses IT to solve business' problems. He also organises and speak at various events on many topics, including Photography, Web Development, and Problem Solving.",
+    "shortBio" : "Joe is a freelance consultant who uses IT to solve business' problems",
+    "tags" : [ "Web", "AR", "ML" ],
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "???",
+      "name" : "Twitter"
+    } ]
+  }, {
+    "name": "Kübra Harmankaya",
+    "id" : 4,
+    "title" : "Android Developer",
+    "company" : "Blenheim Chalcot",
+    "photoUrl" : "/images/people/kubra-face.jpg",
+    "shortBio" : "???",
+    "tags" : [ "Android", "GDG" ],
+    "socials" : [ {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/kubraharmankaya/",
+      "name": "LinkedIn"
+    } ]
+  }
+  , {
+    "name": "Steven Gray",
+    "id" : 5,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "???" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "Nana Fifield",
+    "id" : 6,
+      "title" : "Head of Product Development",
+      "company" : "Sage",
+      "photoUrl" : "/images/people/nana_fifield.jpg",
+      "shortBio" : "???",
+      "tags" : [ "IoT", "GDG" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/NanaFifield",
+        "name" : "Twitter"
+      } ]
+  }, {
+      "name": "Les Emtage",
+      "id" : 7,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "Marine Cartography", "IoT" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "Chris Guest",
+    "id" : 8,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "/images/people/chris_guest.png",
+      "shortBio" : "???",
+      "tags" : [ "DevOps", "GDG" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/GuestChris",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "Benoit Alvarez",
+    "id" : 9,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "???" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "Atif Khan",
+    "id" : 10,
+      "title" : "???",
+      "company" : "Huawei",
+      "photoUrl" : "/images/people/atif_khan.jpg",
+      "shortBio" : "???",
+      "tags" : [ "???", "GDG" ],
+      "socials" : [  ]
+  }, {
+    "name": "???",
+    "id" : 11,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "???" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "???",
+    "id" : 12,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "???" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }, {
+    "name": "Mark Oppenheim",
+    "id" : 13,
+      "title" : "???",
+      "company" : "???",
+      "photoUrl" : "???",
+      "shortBio" : "???",
+      "tags" : [ "???" ],
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "???",
+        "name" : "Twitter"
+      } ]
+  }
+  ],
   "team" : [ {
     "members" : [ {
       "name" : "Perusha Moodley",
@@ -256,13 +375,13 @@
       "title" : "Co-Organiser"
     }, {
       "name" : "Nana Fifield",
-      "photoUrl" : "/images/people/nana_fifield.jpg",
+      "photoUrl" : "/images/people/nana_fifield-face.jpg",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/NanaFifield",
         "name" : "Twitter"
       } ],
-      "title" : "Co-Organiser"
+      "title" : "Co-Organiser, IoT specialist"
     }, {
       "name" : "Kübra Harmankaya",
       "photoUrl" : "/images/people/kubra-face.jpg",
