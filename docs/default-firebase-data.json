@@ -261,45 +261,13 @@
         }
       ]
     }, {
-    "name": "Nana Fifield",
-    "id" : 6,
-      "title" : "Head of Product Development",
-      "company" : "Sage",
-      "photoUrl" : "/images/people/nana_fifield.jpg",
-      "bio" : "Nana has extensive Software Engineering and Management expertise, spanning 20+ years, gained while working in numerous and diverse industries including telecommunications, investment banking, aerospace, software education and business operations management",
-      "shortBio" : "Nana is a GDG Lead and the head of product development at Sage",
-      "tags" : [ "IoT", "GDG" ],
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/NanaFifield",
-        "name" : "Twitter"
-      }, {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/nfifield/",
-        "name": "LinkedIn"
-      } ]
-  }, {
-      "name": "Les Emptage",
-      "id" : 7,
-      "title" : "",
-      "company" : "Neptune Navigation",
-      "photoUrl" : "",
-      "bio" : "",
-      "shortBio" : "",
-      "tags" : [ "Marine Cartography", "IoT" ],
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "",
-        "name" : "Twitter"
-      } ]
-  }, {
     "name": "Chris Guest",
     "id" : 8,
       "title" : "SRE",
       "company" : "Hu:Toma",
       "photoUrl" : "/images/people/chris_guest.png",
       "bio" : "Highly motivated and dedicated Engineer, with domain knowledge ranging from IPTV to Games and Anti-Virus. Passionate about product & service engineering with broad multi-discipline experience of Development, Test and Operations. Demonstrated leadership and technical skills with confidence to engage at all levels of an organisation. Holds an ethos for continuous personal improvement and learning, whilst understanding that it is important to achieve this within a community peers",
-      "shortBio" : "Highly motivated and dedicated Engineer, with domain knowledge ranging from IPTV to Games and Anti-Virus. Passionate about product & service engineering with broad multi-discipline experience of Development, Test and Operations. Demonstrated leadership and technical skills with confidence to engage at all levels of an organisation. Holds an ethos for continuous personal improvement and learning, whilst understanding that it is important to achieve this within a community peers",
+      "shortBio" : "Highly motivated and dedicated Engineer, with domain knowledge ranging from IPTV to Games and Anti-Virus.",
       "tags" : [ "dev-ops" ],
       "socials" : [ {
         "icon" : "twitter",
@@ -316,44 +284,13 @@
       "title" : "CTO",
       "company" : "Volume",
       "photoUrl" : "/images/people/benoit_alvarez-face.jpg",
-      "bio" : "As Volume’s Chief Technology Officer (CTO), Benoit manages the UK Innovation Hub and Sri Lankan development centre – a team of 40 people including Data scientist, AI developers, UX developers, C#/ASP.NET developers and Product Owners. Clients include Dell, Virgin Media, HP Inc., HP enterprise, Plantronics, BP, Oracle and Bureau Veritas. Over the last 2 years, he focused in AI, conversional AI platform and especially the problematic of measuring and improving the quality of natural language data model. Benoit graduated from Bourges University in France with a Masters in Digital Design Engineering in 1998. He worked for the International Centre of Radio Astronomy in Nançay and for Thales Armament, before completing another Masters in 2001 in software design and development. After three years working in the startup and insurance industries, Benoit moved to the UK, join Intelligum Ltd, an independent software company developing bespoke software solutions for a range of clients. In 2005 Intelligum was acquired by Volume. In 2016, he passed a Machine Learning certification from Stanford University. For the last 12 months, Benoit has been working on QBox.ai",
-      "shortBio" : "",
+      "bio" : "As Volume’s Chief Technology Officer (CTO), Benoit manages the UK Innovation Hub and Sri Lankan development centre – a team of 40 people including Data scientists, AI developers, UX developers, C#/ASP.NET developers and Product Owners. Clients include Dell, Virgin Media, HP Inc., HP enterprise, Plantronics, BP, Oracle and Bureau Veritas. Over the last 2 years, he focused in AI, conversional AI platform and especially the problematic of measuring and improving the quality of natural language data model. Benoit graduated from Bourges University in France with a Masters in Digital Design Engineering in 1998. He worked for the International Centre of Radio Astronomy in Nançay and for Thales Armament, before completing another Masters in 2001 in software design and development. After three years working in the startup and insurance industries, Benoit moved to the UK, join Intelligum Ltd, an independent software company developing bespoke software solutions for a range of clients. In 2005 Intelligum was acquired by Volume. In 2016, he passed a Machine Learning certification from Stanford University. For the last 12 months, Benoit has been working on QBox.ai",
+      "shortBio" : "Benoit manages a UK Innovation Hub and a Sri Lankan development centre.",
       "tags" : [ "ai", "ml", "Mobile" ],
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/benoitalvarez/",
         "name" : "LinkedIm"
-      } ]
-  }, {
-    "name": "Atif Khan",
-    "id" : 10,
-      "title" : "Radio Network and Optimisation Engineer",
-      "company" : "Huawei",
-      "photoUrl" : "/images/people/atif_khan.jpg",
-      "bio" : "Senior Radio and Access Transmission Engineer with over nine years experience in functionality, strategy, architecture, optimisation, characterisation, end 2 end performance, software testing, operations etc. Experience with three different operators (Ericsson, Alcatel Lucent/ Nortel, Nokia) on two different Radio Networks (GSM and UMTS) across radio and access transmission domain.",
-      "shortBio" : "Senior Radio and Access Transmission Engineer with over nine years experience in functionality, strategy, architecture, optimisation, characterisation, end 2 end performance, software testing, operations etc. Experience with three different operators (Ericsson, Alcatel Lucent/ Nortel, Nokia) on two different Radio Networks (GSM and UMTS) across radio and access transmission domain.",
-      "tags" : [ "Radio Networks", "GDG" ],
-      "socials" : [ {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/atif-khan-a251411/",
-        "name": "LinkedIn"
-      } ]
-  }, {
-    "name": "Seldon",
-    "id" : 11,
-      "title" : "",
-      "company" : "Seldon",
-      "photoUrl" : "",
-      "bio" : "",
-      "tags" : [ "ml" ],
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/seldon_io?lang=en",
-        "name" : "Twitter"
-      }, {
-        "icon": "website",
-        "link": "https://www.seldon.io/",
-        "name": "seldon"
       } ]
   }, {
     "name": "Dan Norris-Jones",
@@ -375,9 +312,8 @@
       "title" : "Freelance Developer",
       "company" : "Lodgical",
       "photoUrl" : "/images/people/mark_oppenheim.jpg",
-      "bio": "",
-      "shortBio" : "",
-      "tags" : [ "web", "android" ],
+      "bio": "After more than 30 years in the industry Mark finds himself working as a contract JavaScript developer.  His career has spanned three countries and several generations of technology but doubts he will ever do anything as good or bad again as writing an X.500 system in perl.",
+      "shortBio" : "Mark has been playing with computers since his father left him alone with a teletype as a young teenager.",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/markoppenheim",
@@ -404,6 +340,7 @@
       "company": "Sony Computer Entertainment",
       "photoUrl": "/images/people/nawaid_shamim-face.jpg",
       "bio": "Nawaid designs, develops and maintains web services for various Playstation games including Little Big Planet, Kill Zone - Shadow Fall, and Tearaway. Nawaid currently lives in London, where he advocates and evangelises for cloud computing and has a keen interest in distributed systems, machine learning and automation",
+      "shortBio": "Nawaid designs, develops and maintains web services for various Playstation games ",
       "badges": [
         {
           "description": "Google Developer Expert",
@@ -427,6 +364,8 @@
       "title": "Senior Project Manager",
       "company": "JDA Software",
       "photoUrl": "/images/people/naveen_chandra_dudarecha.jpg",
+      "bio": "Transformation leader with over 10 years of experience managing multiple projects simultaneously in Supply chain domain and in various industries across EMEA region.Highly motivated, quick learner with a focus on customer success, I have the ability to negotiate well, work with cross functional, cross organizational and cross boundary teams in a wide wide range of industries from manufacturing, retail, design, telecom, pharmaceutical, luxury goods, semi-conductor & electronics.",
+      "shortBio": "A highly motivated supply chain transformational leader",
       "socials": [{
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/ncdudarecha22/",
