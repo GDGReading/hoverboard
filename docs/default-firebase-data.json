@@ -25,43 +25,43 @@
     "timeslots" : [ {
       "startTime": "09:15",
       "endTime": "09:55",
-      "sessions": [ [ 110 ]]
+      "sessions": [ [ 310 ]]
     }, {
       "startTime" : "10:00",
-      "endTime" : "10:40",
+      "endTime" : "10:45",
       "sessions" : [ [ 101 ], [ 201 ] ]
     }, {
-      "startTime" : "10:45",
-      "endTime" : "10:55",
+      "startTime" : "10:50",
+      "endTime" : "11:00",
       "sessions" : [ [ 131 ], [ ] ]
     }, {
-      "startTime" : "11:00",
-      "endTime" : "11:40",
+      "startTime" : "11:05",
+      "endTime" : "11:50",
       "sessions" : [ [ 102 ], [ 202 ] ]
     }, {
-      "startTime" : "11:45",
-      "endTime" : "11:55",
-      "sessions" : [ [ 241 ], [ ] ]
+      "startTime" : "11:55",
+      "endTime" : "12:05",
+      "sessions" : [ [ 141 ], [ ] ]
     }, {
-      "startTime" : "12:00",
-      "endTime" : "12:40",
+      "startTime" : "12:10",
+      "endTime" : "12:55",
       "sessions" : [ [ 103 ], [ 203 ] ]
     }, {
-      "startTime" : "12:40",
-      "endTime" : "13:40",
-      "sessions" : [ [ 111 ] ]
+      "startTime" : "13:00",
+      "endTime" : "14:00",
+      "sessions" : [ [ 311 ] ]
     }, {
-      "startTime" : "13:45",
-      "endTime" : "15:00",
+      "startTime" : "14:00",
+      "endTime" : "14:45",
       "sessions" : [ [ 121 ], [ 221 ] ]
     }, {
-      "startTime" : "15:00",
-      "endTime" : "16:30",
+      "startTime" : "14:50",
+      "endTime" : "16:20",
       "sessions" : [ [ 122 ], [ 222 ] ]
     }, {
-        "startTime": "16:30",
-        "endTime": "17:00",
-        "sessions": [ [ 112] ]
+        "startTime": "16:20",
+        "endTime": "16:40",
+        "sessions": [ [ 312] ]
     } ],
     "tracks" : [ {
       "title" : "Room 1"
@@ -70,10 +70,6 @@
     } ]
   } ],
   "sessions" : {
-    "110": {
-      "title": "Tea, coffee, registration (pick up your swagbag!)",
-      "id": 110
-    },
     "101": {
       "complexity": "Beginner",
       "description": "Building a chatbot from scratch using TensorFlow and explaining how chatbots actually work.",
@@ -96,15 +92,15 @@
       "id" : 102,
       "speakers" : [ 3 ],
       "tags" : [ "ai", "ml", "Unity" ],
-      "title" : "Unity ML"
+      "title" : "Unity ML Agents"
     },
     "202" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "Application architecture defines the way we develop, test, scale and maintain our application. Good architecture allows us to easily adopt to constantly changing requirements and protects us from breaking existing functionalities. Igor will introduce the concept of Clean Architecture, discuss it's benefits and helps you understand how Clean Architecture fits into Android application development.",
       "id" : 202,
-      "speakers" : [ 11 ],
-      "tags" : [ "cloud", "ml" ],
-      "title" : "TBA"
+      "speakers" : [ 18 ],
+      "tags" : [ "coding" ],
+      "title" : "Clean Architecture"
     },
     "103" : {
       "complexity" : "Intermediate",
@@ -116,79 +112,72 @@
     },
     "203" : {
       "complexity" : "Beginner",
-      "description" : "Covers the business cases for using chatbots and robots, how to take these systems to production and tools for giving customers visibility. ",
+      "description" : "",
       "id" : 203,
-      "speakers" : [ 9 ],
-      "tags" : [ "Chatbot", "Production" ],
-      "title" : "Introducing chatbots and robotic systems to businesses"
-    },
-    "111" : {
-      "id" : 111,
-      "image": "/images/backgrounds/lunch.jpg",
-      "title" : "Lunch"
+      "speakers" : [ 14 ],
+      "tags" : [ "cloud" ],
+      "title" : "Comparison of AWS and GCP"
     },
     "121" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 121,
+      "speakers" : [ 19 ],
+      "tags" : [ "google-assistant", "Actions", "Chatbot", "CodeLab" ],
+      "title" : "Cloud Dataflow/Apache Beam"
+    },
+    "221" : {
+      "complexity" : "Beginner",
+      "description" : "Make your conversational AI platforms and chatbots perform better. What are the challenges behind NLP/NLC data model; who are the key players; why do you need to measure performance; Demo of QBox, the technology-agnostic corpus-management tool that allows you to quantify the quality of your natural-language model.",
+      "id" : 221,
+      "speakers" : [ 9 ],
+      "tags" : [ "web", "Firebase", "CloudFunctions", "CodeLab" ],
+      "title" : "How to make your Conversional AI (chatbot) platform work"
+    },
+    "122" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 122,
       "speakers" : [ 5 ],
       "tags" : [ "google-assistant", "Actions", "Chatbot", "CodeLab" ],
       "title" : "Building your first assistant"
     },
-    "221" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 221,
-      "presentation": "https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/index.html?index=..%2F..%2Findex",
-      "speakers" : [  ],
-      "tags" : [ "web", "Firebase", "CloudFunctions", "CodeLab" ],
-      "title" : "Cloud Functions and Firebase"
-    },
-    "122" : {
+    "222" : {
       "complexity" : "Intermediate",
       "description" : "",
-      "id" : 122,
+      "id" : 222,
       "presentation": "https://www.meetup.com/GDG-Reading-Thames-Valley/events/243095838/",
       "speakers" : [ 8 ],
       "tags" : [ "cloud", "StackDriver", "Python", "CodeLab" ],
       "title" : "Building, Hosting and Monitoring a web service with GCP and Stackdriver"
     },
-    "222" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 222,
-      "presentation" : "https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=..%2F..%2Findex#0",
-      "speakers" : [ 10 ],
-      "tags" : [ "ml", "cloud" ],
-      "title" : "Serverless Machine Learning"
-    },
     "131" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 131,
-      "speakers" : [ 14 ],
-      "tags" : [ "cloud" ],
-      "title" : "Lightning Talk"
-    },
-    "241" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 231,
-      "speakers" : [ 17 ],
-      "tags" : [ "web" ],
-      "title" : "Lightning Talk - AR in the browser"
+      "speakers" : [ 20 ],
+      "tags" : [ "iot" ],
+      "title" : "IoT skills slot"
     },
     "141" : {
       "complexity" : "Beginner",
       "description" : "",
       "id" : 141,
-      "speakers" : [  ],
-      "tags" : [ "android" ],
-      "title" : "Lightning Talk - ???"
+      "speakers" : [ 17 ],
+      "tags" : [ "web" ],
+      "title" : "Lightning Talk - AR in the browser"
     },
-    "112" : {
-      "description" : "",
-      "id" : 112,
+    "310": {
+      "title": "Tea, coffee, registration (pick up your swagbag!)",
+      "id": 310
+    },
+    "311" : {
+      "id" : 311,
+      "image": "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
+    },
+    "312" : {
+      "id" : 312,
       "speakers" : [  ],
       "title" : "Wrap-up and Prizes"
     }
@@ -243,8 +232,7 @@
       "link": "http://innovaocean.com/",
       "name": "Innova Ocean"
     } ]
-  }
-  ,
+  },
     {
       "name": "Steven Gray",
       "badges": [
@@ -327,8 +315,8 @@
     "id" : 9,
       "title" : "CTO",
       "company" : "Volume",
-      "photoUrl" : "/images/people/benoit_alvarez.jpg",
-      "bio" : "",
+      "photoUrl" : "/images/people/benoit_alvarez-face.jpg",
+      "bio" : "As Volume’s Chief Technology Officer (CTO), Benoit manages the UK Innovation Hub and Sri Lankan development centre – a team of 40 people including Data scientist, AI developers, UX developers, C#/ASP.NET developers and Product Owners. Clients include Dell, Virgin Media, HP Inc., HP enterprise, Plantronics, BP, Oracle and Bureau Veritas. Over the last 2 years, he focused in AI, conversional AI platform and especially the problematic of measuring and improving the quality of natural language data model. Benoit graduated from Bourges University in France with a Masters in Digital Design Engineering in 1998. He worked for the International Centre of Radio Astronomy in Nançay and for Thales Armament, before completing another Masters in 2001 in software design and development. After three years working in the startup and insurance industries, Benoit moved to the UK, join Intelligum Ltd, an independent software company developing bespoke software solutions for a range of clients. In 2005 Intelligum was acquired by Volume. In 2016, he passed a Machine Learning certification from Stanford University. For the last 12 months, Benoit has been working on QBox.ai",
       "shortBio" : "",
       "tags" : [ "ai", "ml", "Mobile" ],
       "socials" : [ {
@@ -395,6 +383,60 @@
         "link" : "https://www.linkedin.com/in/markoppenheim",
         "name" : "LinkedIn"
       } ]
+    }, {
+      "name": "Igor Wojda",
+      "id": 18,
+      "title": "Android Engineer",
+      "company": "Babylon",
+      "photoUrl": "/images/people/igor_wojda.png",
+      "bio": "Igor Wojda is an experienced engineer with over 11 years of software development experience. Currently, he is working as Android Engineer at babylon. Igor was one of Kotln early adopters. He is a speaker, technical proffer for Kotlin In Action book and author of Android Development with Kotlin book. He enjoys sharing his passion for coding with other developers.",
+      "shortBio": "Passionate engineer with over eleven years of experience in software development. Trainer and author of ‘Android Development with Kotlin’ book.",
+      "socials": [{
+        "icon": "twitter",
+        "link": "https://twitter.com/igorwojda",
+        "name": "Twitter"
+      }
+      ]
+    }, {
+      "name": "Nawaid Shamim",
+      "id": 19,
+      "title": "System Engineer",
+      "company": "Sony Computer Entertainment",
+      "photoUrl": "/images/people/nawaid_shamim-face.jpg",
+      "bio": "Nawaid designs, develops and maintains web services for various Playstation games including Little Big Planet, Kill Zone - Shadow Fall, and Tearaway. Nawaid currently lives in London, where he advocates and evangelises for cloud computing and has a keen interest in distributed systems, machine learning and automation",
+      "badges": [
+        {
+          "description": "Google Developer Expert",
+          "link": "https://developers.google.com/experts/people/nawaid-shamim",
+          "name": "GDE Google Cloud Platform"
+        }
+      ],
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nawaidshamim/",
+        "name": "LinkedIn"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/nawaidshamim?lang=en",
+        "name": "Twitter"
+      }
+    ]
+    }, {
+      "name": "Naveen Chandra Dudarecha",
+      "id": 20,
+      "title": "Senior Project Manager",
+      "company": "JDA Software",
+      "photoUrl": "/images/people/naveen_chandra_dudarecha.jpg",
+      "socials": [{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ncdudarecha22/",
+        "name": "LinkedIn"
+      }, {
+        "icon": "gplus",
+        "link": "https://plus.google.com/108859395222728856894",
+        "name": "G+"
+      }
+      ]
     }
   ],
   "team" : [ {
