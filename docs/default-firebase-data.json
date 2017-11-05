@@ -103,7 +103,7 @@
       "title" : "Clean Architecture"
     },
     "103" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Beginner",
       "description" : "",
       "id" : 103,
       "speakers" : [ 5 ],
@@ -119,11 +119,11 @@
       "title" : "Comparison of AWS and GCP"
     },
     "121" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermediate",
       "description" : "",
       "id" : 121,
       "speakers" : [ 19 ],
-      "tags" : [ "google-assistant", "Actions", "Chatbot", "CodeLab" ],
+      "tags" : [ "cloud", "data" ],
       "title" : "Cloud Dataflow/Apache Beam"
     },
     "221" : {
@@ -131,7 +131,7 @@
       "description" : "Make your conversational AI platforms and chatbots perform better. What are the challenges behind NLP/NLC data model; who are the key players; why do you need to measure performance; Demo of QBox, the technology-agnostic corpus-management tool that allows you to quantify the quality of your natural-language model.",
       "id" : 221,
       "speakers" : [ 9 ],
-      "tags" : [ "web", "Firebase", "CloudFunctions", "CodeLab" ],
+      "tags" : [ "chatbot", "production" ],
       "title" : "How to make your Conversional AI (chatbot) platform work"
     },
     "122" : {
@@ -144,7 +144,7 @@
     },
     "222" : {
       "complexity" : "Intermediate",
-      "description" : "",
+      "description" : "This is a hands-on version of a previous event hosted by Chris: The audience will be taken through the features of Google Stackdriver by way of implementing a simple operational web service.The code will be annotated with metrics and telemetry that will indicate the operational characteristics of the service.  Here Stackdriver will be used to build operational dashboards that use this data to render graphs and allow alerts to be created.Technologies that will be used for the demonstration are: Python, Google Cloud VM's, Docker, Google Container Registry and Stackdriver",
       "id" : 222,
       "presentation": "https://www.meetup.com/GDG-Reading-Thames-Valley/events/243095838/",
       "speakers" : [ 8 ],
