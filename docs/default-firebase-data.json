@@ -41,7 +41,7 @@
     }, {
       "startTime" : "11:55",
       "endTime" : "12:05",
-      "sessions" : [ [ 141 ], [ ] ]
+      "sessions" : [ [ 141 ], [ 142 ] ]
     }, {
       "startTime" : "12:10",
       "endTime" : "12:55",
@@ -166,6 +166,14 @@
       "speakers" : [ 17 ],
       "tags" : [ "web" ],
       "title" : "Lightning Talk - AR in the browser"
+    },
+    "142" : {
+      "complexity" : "Beginner",
+      "description" : "",
+      "id" : 142,
+      "speakers" : [ 21 ],
+      "tags" : [ "coding" ],
+      "title" : "Lightning Talk - Introduction to Women Techmakers"
     },
     "310": {
       "title": "Tea, coffee, registration (pick up your swagbag!)",
@@ -327,11 +335,8 @@
       "photoUrl": "/images/people/igor_wojda.png",
       "bio": "Igor Wojda is an experienced engineer with over 11 years of software development experience. Currently, he is working as Android Engineer at babylon. Igor was one of Kotln early adopters. He is a speaker, technical proffer for Kotlin In Action book and author of Android Development with Kotlin book. He enjoys sharing his passion for coding with other developers.",
       "shortBio": "Passionate engineer with over eleven years of experience in software development. Trainer and author of ‘Android Development with Kotlin’ book.",
-      "socials": [{
-        "icon": "twitter",
-        "link": "https://twitter.com/igorwojda",
-        "name": "Twitter"
-      }
+      "socials": [
+        {"icon": "twitter", "link": "https://twitter.com/igorwojda", "name": "Twitter"}, {"icon": "linkedin", "link": "https://www.linkedin.com/in/igorwojda/", "name": "LinkedIn"}, {"icon": "website", "link": "https://medium.com/@igorwojda", "name": "Medium"}
       ]
     }, {
       "name": "Nawaid Shamim",
@@ -376,6 +381,23 @@
         "name": "G+"
       }
       ]
+    }, {
+      "name": "Amanda Cavallaro",
+      "id": 21,
+      "title": "Software Developer",
+      "company": "resolver.co.uk",
+      "photoUrl": "/images/people/amanda_cavallaro.jpg",
+      "bio": "Amanda is one of the co-organisers of Women TechMakers and Google Developers Group Cloud London and a developer at resolver.co.uk. She will share her path, from when she decided to become a developer and will tell of some of the hardships she went through. She will share what she is currently working on and a message about the importance of diversity in the technology industry. Amanda is a computer scientist who can speak four languages and loves chatbots. The most inspiring geek book she has ever read is Ready Player One by Ernest Cline. During her free time she is an aikidoka, a volunteer organiser at GDG Cloud / WTM London, she loves to attend tech meetups and to work on her own personal projects to practice different programming languages. This is she singing in four languages https://goo.gl/iSfcjF her singing skills are rather disappointing, though. If she was a type of music she would definitely be a Power Metal song. Amanda is a spontaneous person who tries her best to help everyone around her, and when she likes the cause, she will not rest until she can help you. Sometimes she takes her life is at maximum speed such as the song Destruction Preventer and some other times she is complaining about the cold in a mood similar to the song The Misery. She is a big fan of the Finnish band Sonata Arctica, and these two songs are theirs by the way.",
+      "shortBio": "Amanda Cavallaro, a software developer who works at resolver.co.uk and is a Women Techmakers Lead and Community Organiser at GDG Cloud London.",
+      "socials": [ {
+        "icon": "linkedin",
+        "link": "https://uk.linkedin.com/in/amanda-cavallaro-80a36241 ",
+        "name": "LinkedIn"
+      }, {
+        "icon": "twitter",
+        "link": "https://twitter.com/chibichibibr?lang=en",
+        "name": "Twitter"
+      }]
     }
   ],
   "team" : [ {
@@ -400,20 +422,20 @@
         "link": "https://www.linkedin.com/in/atif-khan-a251411/",
         "name": "LinkedIn"
       } ],
-      "title" : "Co-Organiser"
+      "title" : "Co-Organiser, Python/Data Specialist"
     }, {
       "name" : "Chris Guest",
       "photoUrl" : "/images/people/chris_guest.png",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/GuestChris",
-        "name" : "Twitter, DevOps specialist"
+        "name" : "Twitter"
       }, {
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/chris-guest-7676793/",
         "name": "LinkedIn"
       } ],
-      "title" : "Co-Organiser"
+      "title" : "Co-Organiser, Cloud/DevOps specialist"
     }, {
       "name" : "Nana Fifield",
       "photoUrl" : "/images/people/nana_fifield-face.jpg",
@@ -449,6 +471,19 @@
         "name": "LinkedIn"
       } ],
       "title" : "Co-Organiser, Grow@GreenPark"
+    }, {
+      "name": "Florian Rathgeber",
+      "photoUrl": "/images/people/florian_rathgeber.jpg",
+      "socials": [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/frathgeber",
+        "name" : "Twitter"
+      },{
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/florianrathgeber",
+        "name": "LinkedIn"
+      }],
+      "title": "Co-Organiser, Google SRE"
     } ],
     "title" : "Core Team"
   } ],
