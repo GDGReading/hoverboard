@@ -54,6 +54,16 @@
           "name": "DevFest 2017",
           "url": "https://devfest2017-df0c9.firebaseapp.com/",
           "newTab": true
+        },
+        {
+          "name": "DevFest 2016",
+          "url": "https://reading-gdg.appspot.com/",
+          "newTab": true
+        },
+        {
+          "name": "DevFest 2015",
+          "url": "http://rtv-devfest.appspot.com/",
+          "newTab": true
         }
       ]
     },
