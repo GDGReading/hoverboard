@@ -665,117 +665,292 @@
   },
   "speakers" : {
     "laurence" : {
+      "name" : "Laurence Moroney",
+      "featured" : true,
       "bio" : "Working on Artificial Intelligence for Google. Author and Member of @sfwa. IMDB screenwriter. Host of #CoffeeWithAGoogler.",
+      "shortBio" : "Working on Artificial Intelligence for Google. Author and Member of @sfwa. IMDB screenwriter. Host...",
+      "photo" : "/images/people/laurence.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/833813140081029120/LQHZlMZE_400x400.jpg",
       "company" : "Google",
       "companyLogo" : "/images/logos/google.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
       "country" : "United Kingdom",
-      "featured" : true,
-      "name" : "Laurence Moroney",
-      "photo" : "/images/people/laurence.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/laurence.jpg",
-      "shortBio" : "TBA",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lmoroney",
-        "name" : "Twitter"
+
       } ],
       "title" : "Staff Developer Advocate"
     },
-    "liam" : {
-      "bio" : "TBA",
-      "name" : "Liam White",
-      "country" : "United Kingdom"
-
-    },
-    "amanda" : {
-      "bio" : "TBA",
-      "name" : "Amanda",
-      "country" : "United Kingdom"
-
-    },
-    "andrew" : {
-      "bio" : "TBA",
-      "name" : "Andrew Trask",
-      "country" : "United Kingdom"
-
-    }, 
-    "felipe" : {
-      "bio" : "TBA",
-      "name" : "Felipe Conde",
-      "country" : "United Kingdom"
-
-    },
-    "kubra" : {
-      "bio" : "TBA",
-      "name" : "Kubra",
-      "country" : "United Kingdom"
-
-    },
-    "aidan" : {
-      "bio" : "TBA",
-      "name" : "Aidan Gomez",
-      "country" : "United Kingdom"
-
-    }, 
-    "jamie" : {
-      "bio" : "TBA",
-      "name" : "Jamie Adkins",
-      "country" : "United Kingdom"
-
-    },
-    "max" : {
-      "bio" : "TBA",
-      "name" : "Max",
-      "country" : "United Kingdom"
-
-    },
-    "simon" : {
-      "bio" : "TBA",
-      "name" : "Simon Wardley",
-      "country" : "United Kingdom"
-
-    },
-    "jenny" : {
-      "bio" : "TBA",
-      "name" : "Jenny Gove",
-      "country" : "United Kingdom"
-
-    },
     "marc" : {
-      "bio" : "TBA",
       "name" : "Marc Cohen",
-      "country" : "United Kingdom"
-
+      "featured" : true,
+      "bio" : "I’m a Developer Advocate at Google. I build tools, demos, codelabs, and other things to make the Google Cloud Platform easier and more fun to use. I’m originally from New Jersey, lived in Columbus and Seattle for a while, and now live and work in London, UK. I co-authored a book about Google Compute Engine and wrote the product announcement demo. In a previous life, I developed communication systems at Bell Labs and Lucent Technologies. Outside of work, I enjoy indie music, quirky films (especially documentaries), books, puzzles, and chess. I’m also very interested in education, teaching, and applying technology (like spaced repetition) to enhance the learning experience.",
+      "shortBio" : "I’m a Developer Advocate at Google. I build tools, demos, codelabs, and other things to make the...",
+      "photo" : "/images/people/marc.jpg",
+      "photoUrl" : "https://devopsconference.de/wp-content/uploads/2017/04/1489657800362_cohen_marc_wp.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Developer Advocate, Google Cloud Platform and Manager, EMEA Developer Relations Engineering Team"
     }, 
-    "busra" : {
+    "aidan" : {
+      "name" : "Aidan Gomez",
+      "featured" : false,
       "bio" : "TBA",
-      "name" : "Busra",
-      "country" : "United Kingdom"
-
-    },
-    "nick" : {
+      "shortBio" : "TBA",
+      "photo" : "/images/people/aidan.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/1034243623670272002/14besAt3_400x400.jpg",
+      "company" : "Google Brain, University of Oxford",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "Canada, United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "PhD Student and Intern @ Google Brain"
+    }, 
+    "andrew" : {
+      "name" : "Andrew Trask",
+      "featured" : false,
+      "bio" : "Andrew Trask is a PhD student at the University of Oxford where he researches new techniques for technical AI safety. With a passion for making complex ideas easy to learn, he is also the author of the book Grokking Deep Learning, an instructor in Udacity's Deep Learning Nanodegree, and he authors a popular Deep Learning blog iamtrask.github.io. He is also the leader of the OpenMined open-source community, a group of over 3000 researchers, practitioners, and enthusiasts which extends major Deep Learning frameworks with open-source tools for technical AI safety (openmined.org).",
+      "shortBio" : "Andrew Trask is a PhD student at the University of Oxford where he researches new techniques for...",
+      "photo" : "/images/people/andrew.jpg",
+      "photoUrl" : "https://www.cs.ox.ac.uk/files/8446//Trask%20Andrew.JPG",
+      "company" : "OpenMined, University of Oxford",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Founder of OpenMined, PhD Student"
+    }, 
+    "kubra" : {
+      "name" : "Kubra",
+      "featured" : false,
       "bio" : "TBA",
-      "name" : "Nick Joyce",
-      "country" : "United Kingdom"
-
-    },
-    "aygul" : {
-      "bio" : "TBA",
-      "name" : "Aygul",
-      "country" : "United Kingdom"
-
+      "shortBio" : "TBA",
+      "photo" : "/images/people/kubra.jpg",
+      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/laurence.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Staff Developer Advocate"
     },
     "andrejus" : {
-      "bio" : "TBA",
       "name" : "Andrejus Kostarevas",
-      "country" : "United Kingdom"
-
+      "featured" : false,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "/images/people/andrejus.jpg",
+      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/laurence.jpg",
+      "company" : "Think Engineer",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Design & Development Engineer"
+    },
+    "liam" : {
+      "name" : "Liam White",
+      "featured" : true,
+      "bio" : "Liam is a Software Engineer on the IBM Cloud Container Registry team and a core contributor to Istio. He is an advocate of open source technology both utilising and contributing to multiple projects.",
+      "shortBio" : "Liam is a Software Engineer on the IBM Cloud Container Registry team and a core contributor to Istio...",
+      "photo" : "/images/people/liam.jpg",
+      "photoUrl" : "https://avatars0.githubusercontent.com/u/14291598?s=460&v=4",
+      "company" : "IBM",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Software Engineer"
+    },
+    "jenny" : {
+      "name" : "Jenny Gove",
+      "featured" : true,
+      "bio" : "Jennifer Gove is a Senior User Experience Researcher at Google where she works on mobile and tablet research in advertising. In prior roles Jennifer has managed the Apps, Social, and Ads User Research teams at Google, conducted user research at Sun Microsystems, and created interaction designs for communication and collaboration across the internet at a start-up, Zadu. Jennifer started her career in academia, and was a University Lecturer at the Open University in the UK, where she conducted Educational Technology research. She received her Ph.D. from the University of Southampton in the UK",
+      "shortBio" : "Jennifer Gove is a Senior User Experience Researcher at Google where she works on mobile and tablet...",
+      "photo" : "/images/people/jenny.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/948590116590690304/-_Zdcxhr_400x400.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United States",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Mobile Payments UX Lead and Mobile Advertising Products UX Lead"
+    },
+    "rowan" : {
+      "name" : "Rowan Merewood",
+      "featured" : true,
+      "bio" : "Rowan’s focus at Google is ensuring that the web is not just a first-class experience for users, but that it’s also a natural and intuitive platform for developers. He focuses on e-commerce currently, which means looking at how the technical best practice can really be translated into viable business cases. Previously he’s worked across several products, such as Android, Firebase, and Google Now – so he’s particularly interested in those intersections where users transfer from one device or interface to another in the course of completing a single task. On the off-chance you want to talk about something non-work related then obscure or terrible horror films are a good opener.",
+      "shortBio" : "Rowan’s focus at Google is ensuring that the web is not just a first-class experience for users, but...",
+      "photo" : "/images/people/rowan.jpg",
+      "photoUrl" : "https://avatars3.githubusercontent.com/u/108052?s=460&v=4",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Senior Developer Advocate"
+    },
+    "simon" : {
+      "name" : "Simon Wardley",
+      "featured" : true,
+      "bio" : "Simon Wardley, based in the UK, is a Researcher for Leading Edge Forum and the lead practitioner for Wardley Maps advisory service helping clients anticipate market and ecosystem developments. Simon’s focus is on the intersection of IT strategy and new technologies, and he is the author of multiple reports including Clash of the Titans – Will China Dethrone Silicon Valley?  where he assesses the hi-tech challenge from China and what this means to the future of global technology industry competition. His previous research covers topics including Of Wonders and Disruption,  The Future is More Predictable Than You Think - A Workbook for Value Chain Mapping, Beware of Geeks Bearing Gifts: Strategies for an Increasingly Open Economy, Learning from Web 2.0 and A Lifecycle Approach to Cloud Computing. Simon is a seasoned executive who has spent the last 15 years defining future IT strategies for companies in the FMCG, Retail and IT industries.  From Canon’s early leadership in the cloud computing space in 2005 to Ubuntu’s recent dominance as the #1 Cloud operating system. As a geneticist with a love of mathematics and a fascination in economics, Simon has always found himself dealing with complex systems, whether it’s in behavioural patterns, environmental risks of chemical pollution, developing novel computer systems or managing companies.  He is a passionate advocate and researcher in the fields of open source, commoditization, innovation, organizational structure and cybernetics. Simon is a regular presenter at conferences worldwide, and has been voted as one of the UK's top 50 most influential people in IT in recent Computer Weekly polls.",
+      "shortBio" : "Simon Wardley, based in the UK, is a Researcher for Leading Edge Forum and the lead practitioner for...",
+      "photo" : "/images/people/simon.jpg",
+      "photoUrl" : "https://d1xjoskxl9g04.cloudfront.net/media/researcher/wardley-s-428x600.jpg",
+      "company" : "Leading Edge Forum",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Researcher"
+    },
+    "busra" : {
+      "name" : "Busra Deniz Akin",
+      "featured" : true,
+      "bio" : "I’m Busra, a London-based software engineer who has a keen interest in developing high-quality software. Currently, I’m working as android developer at The App Business. Besides being co-organizer in two different communities, Google Developer Group and Women Techmakers London, I really enjoy voluntarily organising tech events and speaking at developer conferences. I strongly believe in sharing knowledge and collaborating with the other people through these events will come hand in hand with innovation and new perspectives.",
+      "shortBio" : "I’m Busra, a London-based software engineer who has a keen interest in developing high-quality...",
+      "photo" : "/images/people/busra.jpg",
+      "photoUrl" : "https://avatars1.githubusercontent.com/u/1152513?s=460&v=4",
+      "company" : "The App Business (TAB)",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Android Developer"
+    },
+    "aygul" : {
+      "name" : "Aygul Zagidullina",
+      "featured" : true,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "/images/people/aygul.jpg",
+      "photoUrl" : "https://pbs.twimg.com/profile_images/965022005358718978/IoFdJ5lj_400x400.jpg",
+      "company" : "Motaword",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Director of Social Media"
+    },
+    "nick" : {
+      "name" : "Nick Joyce",
+      "featured" : true,
+      "bio" : "Nick Joyce is a partner at Real Kinetic where he helps companies build scalable systems and organisations. Previously, he was the Head of Infrastructure Engineering at Workiva where he designed and built the CI/CD pipeline and PaaS used to run the second generation of applications. He is passionate about all things 'DevOps' and making it as simple as possible for developers to get quality code in front of customers as fast as possible. Nick has been working with the cloud for the past 10 years and is an advocate for cloud native technologies like containers and Kubernetes. Recently, as microservices are becoming more prevalent, his focus has been around observability and reliability and has spent a lot of time with Istio, a service mesh that connects, manages, and secures microservices.",
+      "shortBio" : "Nick Joyce is a partner at Real Kinetic where he helps companies build scalable systems and...",
+      "photo" : "/images/people/nick.jpg",
+      "photoUrl" : "https://cdn-images-1.medium.com/fit/c/200/200/1*CdDtgLJ4nDQ9D6YOo8mdBg.png",
+      "company" : "Real Kinetic",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Managing Partner at Real Kinetic"
+    },
+    "amanda" : {
+      "name" : "Amanda",
+      "featured" : true,
+      "bio" : "Working on Artificial Intelligence for Google. Author and Member of @sfwa. IMDB screenwriter. Host of #CoffeeWithAGoogler.",
+      "shortBio" : "Working on Artificial Intelligence for Google. Author and Member of @sfwa. IMDB screenwriter. Host...",
+      "photo" : "/images/people/laurence.jpg",
+      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/laurence.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/logos/google.svg",
+      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "country" : "United Kingdom",
+      "socials" : [ {
+        
+      } ],
+      "title" : "Staff Developer Advocate"
+    },
+    "felipe" : {
+      "name" : "Felipe Conde",
+      "featured" : false,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "",
+      "photoUrl" : "",
+      "company" : "TBA",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "TBA",
+      "socials" : [ {
+        
+      } ],
+      "title" : "TBA"
+    },
+    "jamie" : {
+      "name" : "Jamie Adkins",
+      "featured" : false,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "",
+      "photoUrl" : "",
+      "company" : "TBA",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "TBA",
+      "socials" : [ {
+        
+      } ],
+      "title" : "TBA"
+    },
+    "max" : {
+      "name" : "Max",
+      "featured" : false,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "",
+      "photoUrl" : "",
+      "company" : "TBA",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "TBA",
+      "socials" : [ {
+        
+      } ],
+      "title" : "TBA"
     },
     "tom" : {
-      "bio" : "TBA",
       "name" : "Tom Thorne",
-      "country" : "United Kingdom"
+      "featured" : false,
+      "bio" : "TBA",
+      "shortBio" : "TBA",
+      "photo" : "",
+      "photoUrl" : "",
+      "company" : "TBA",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "TBA",
+      "socials" : [ {
+        
+      } ],
+      "title" : "TBA"
     }
   },
   "team" : [ {
