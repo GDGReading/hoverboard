@@ -161,8 +161,8 @@
   "previousSpeakersBlock": {
     "title": "Previous speakers",
     "callToAction": {
-      "label": "View all",
-      "link": "/previous-speakers/"
+      "label": "View",
+      "link": "https://devfest2017-df0c9.firebaseapp.com/speakers/"
     }
   },
   "galleryBlock": {
