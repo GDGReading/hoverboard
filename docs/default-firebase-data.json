@@ -68,58 +68,19 @@
   },
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
+      "logoUrl" : "/images/sponsors/priocept.png",
+      "name" : "Priocept",
+      "url" : "http://priocept.com/"
+    }, {
+      "logoUrl" : "/images/sponsors/tvsp.JPG",
+      "name" : "Thames Valley Science Park",
+      "url" : "https://www.tvsp.co.uk/"
+    }, {
+      "logoUrl" : "/images/sponsors/github.png",
+      "name" : "GitHub Education",
+      "url" : "https://education.github.com/"
     } ],
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    } ],
-    "title" : "General Partner"
+    "title" : "Sponsors"
   } ],
   "schedule" : {
     "2018-10-27" : {
