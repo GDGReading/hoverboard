@@ -678,22 +678,6 @@
       } ],
       "title" : "TBA"
     },
-    "max" : {
-      "name" : "Max",
-      "featured" : false,
-      "bio" : "TBA",
-      "shortBio" : "TBA",
-      "photo" : "",
-      "photoUrl" : "",
-      "company" : "TBA",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "TBA",
-      "socials" : [ {
-        
-      } ],
-      "title" : "TBA"
-    },
     "tom" : {
       "name" : "Tom Thorne",
       "featured" : false,
