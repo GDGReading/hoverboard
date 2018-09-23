@@ -626,8 +626,8 @@
     "felipe" : {
       "name" : "Felipe Conde",
       "featured" : false,
-      "bio" : "The way we build applications changed drastically in the recent years. Even though they've been around for decades, the Android community has been bombarded by all sorts of acronyms defining architectures.",
-      "shortBio" : "The way we build applications changed drastically in the recent years. Even though they've...",
+      "bio" : "Felipe is an Android developer with experience that started when API was still on version 4. Currently works @Pulselive building next-generation digital sports apps using the latest technologies. Passionate about team structure and dynamics, always looking for ways to make teams as collaborative as possible.",
+      "shortBio" : "Felipe is an Android developer with experience that started when API was still on version 4...",
       "photo" : "/images/people/felipe.jpg",
       "photoUrl" : "/images/people/felipe.jpg",
       "company" : "Pulselive",
@@ -637,8 +637,11 @@
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/felipe-conde-7475a950/"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/condesales"
       } ],
-      "title" : "TBA"
+      "title" : "Android Developer"
     },
     "jamie" : {
       "name" : "Jamie Adkins",
