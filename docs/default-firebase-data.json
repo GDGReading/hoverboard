@@ -289,7 +289,7 @@
       "language" : "English",
       "speakers" : [ "simon" ],
       "tags" : [ "Keynote" ],
-      "title" : "Crossing the river by felling the stones"
+      "title" : "Crossing the river by feeling the stones"
     },
 
     "91" : {
@@ -334,11 +334,11 @@
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "TBA",
+      "description" : "Application development has changed rapidly over the past few years and users are demanding more and more from us. Maintaining a high level of feature development while ensuring your app is up and available is critical. We walk through the concepts of chaos engineering and take a look at some tools that can help keep your users happy.",
       "language" : "English",
       "speakers" : [ "nick" ],
       "tags" : [ "Cloud" ],
-      "title" : "Chaos Engineering"
+      "title" : "Happier users through chaos engineering"
     },
     "113" : {
       "complexity" : "Beginner",
@@ -747,18 +747,18 @@
     "aleksandr" : {
       "name" : "Aleksandr Litovchenko",
       "featured" : false,
-      "bio" : "TBA", 
-      "shortBio" : "TBA",
-      "photo" : "/images/people/aleksandr.jpg",
-      "photoUrl" : "/images/people/aleksandr.jpg",
-      "company" : "TBA",
+      "bio" : "I’m a Senior Software Android Engineer at Badoo. I’ve had the chance to work on all different sized applications, going from startups to the biggest social network. Production programming is not just something I enjoy at work. I really enjoy participating in hackathons - especially if I win them! - and I like solving the most challenging coding problems.", 
+      "shortBio" : "I’m a Senior Software Android Engineer at Badoo. I’ve had the chance to work on all...",
+      "photo" : "/images/people/aleksandr.JPG",
+      "photoUrl" : "/images/people/aleksandr.JPG",
+      "company" : "Badoo",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "United Kingdom",
       "socials" : [ {
         
       } ],
-      "title" : "TBA"
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
