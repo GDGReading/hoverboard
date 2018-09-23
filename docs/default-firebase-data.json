@@ -385,11 +385,11 @@
       "companyLogoUrl" : "/images/companies/google.png",
       "country" : "United States",
       "socials" : [ {
-          "icon" : "twitter",
-          "link" : "https://twitter.com/lmoroney"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/lmoroney"
       }, {
-          "icon" : "linkedin",
-          "link" : "https://www.linkedin.com/in/laurence-moroney/"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/laurence-moroney/"
       } ],
       "title" : "Staff Developer Advocate"
     },
@@ -408,8 +408,8 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/marcacohen"
       }, {
-          "icon" : "linkedin",
-          "link" : "https://uk.linkedin.com/in/marccohen3"
+        "icon" : "linkedin",
+        "link" : "https://uk.linkedin.com/in/marccohen3"
       } ],
       "title" : "Developer Advocate, Google Cloud Platform and Manager, EMEA Developer Relations Engineering Team"
     }, 
@@ -443,7 +443,10 @@
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/akostarevas"        
+        "link" : "https://twitter.com/akostarevas"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/andrejusk/"
       } ],
       "title" : "Design & Development Engineer"
     },
@@ -799,7 +802,7 @@
         "icon" : "twitter",
         "link" : "https://twitter.com/akostarevas",
         "name" : "Twitter"
-      },{
+      }, {
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/andrejusk/",
         "name": "LinkedIn"
