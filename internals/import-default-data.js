@@ -25,6 +25,8 @@ const importSpeakers = () => {
 };
 
 const importPreviousSpeakers = () => {
+  return;
+
   const previousSpeakers = data.previousSpeakers;
   console.log('\tImporting', Object.keys(previousSpeakers).length, 'previous speakers...');
 
