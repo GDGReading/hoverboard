@@ -367,7 +367,7 @@
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "TBA",
+      "description" : "Angular is a popular and powerful open-source development platform by Google, which lets us develop applications across all platforms, web, mobile, native mobile and native desktop. In this session, we will build a simple single page web application using Angular covering topics such as String Interpolation, Property and Event Binding and Component Interaction. It is a hands on session, so please bring a laptop, if you would like to follow along.",
       "language" : "English",
       "speakers" : [ "ashnita" ],
       "tags" : [ "Web" ],
@@ -711,10 +711,10 @@
       "shortBio" : "Ashnita is a front-end developer who loves JavaScript and Angular. She studied Management...",
       "photo" : "/images/people/ashnita.jpg",
       "photoUrl" : "/images/people/ashnita.jpg",
-      "company" : "TBA",
+      "company" : "Fantoo",
       "companyLogo" : "",
       "companyLogoUrl" : "",
-      "country" : "TBA",
+      "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/ashnita01"
@@ -722,7 +722,7 @@
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/ashnita-bali/"
       } ],
-      "title" : "TBA"
+      "title" : "Web Developer"
     },
     "faris" : {
       "name" : "Faris A. Almalki",
