@@ -105,7 +105,7 @@
         }, {
           "items" : [ 42 ]
         }, {
-          "items" : [ 43 ]
+          "items" : [ 123 ]
         } ]
       }, {
         "startTime" : "11:00",
@@ -161,8 +161,6 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
-        }, {
-          "items" : [ 113 ]
         } ]
       }, {
         "startTime" : "16:40",
@@ -172,7 +170,7 @@
         }, {
           "items" : [ 122 ]
         }, {
-          "items" : [ 123 ]
+          "items" : [ 43 ]
         } ]
       }, {
         "startTime" : "17:20",
@@ -188,7 +186,7 @@
       }, {
         "title" : "Conference Hall 2"
       }, {
-        "title" : "Downstairs Cafe"
+        "title" : "Conference Area 3"
       } ]
     }
   },
@@ -252,7 +250,7 @@
     },
     "53" : {
       "complexity" : "Beginner",
-      "description" : "TBA",
+      "description" : "[LAPTOP ADVISED]",
       "language" : "English",
       "speakers" : [ "kubra", "patrick" ],
       "tags" : [ "Android" ],
@@ -289,7 +287,7 @@
       "language" : "English",
       "speakers" : [ "simon" ],
       "tags" : [ "Keynote" ],
-      "title" : "Crossing the river by felling the stones"
+      "title" : "Crossing the river by feeling the stones"
     },
 
     "91" : {
@@ -328,25 +326,17 @@
       "complexity" : "Beginner / Intermediate",
       "description" : "Progressive Web Apps enable fast, integrated, reliable and engaging web experiences. Browser vendors are enabling progressive experiences, not only through mobile web apps but also installable desktop applications. We’ll look at the new technologies that are transforming the web and why and how these can enable better experiences for users.",
       "language" : "English",
-      "speakers" : [ "jenny", "rowan" ],
+      "speakers" : [ "jenny" ],
       "tags" : [ "Web" ],
       "title" : "Progressive Web Apps - Transforming the web for greater engagement"
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "TBA",
+      "description" : "Application development has changed rapidly over the past few years and users are demanding more and more from us. Maintaining a high level of feature development while ensuring your app is up and available is critical. We walk through the concepts of chaos engineering and take a look at some tools that can help keep your users happy.",
       "language" : "English",
       "speakers" : [ "nick" ],
       "tags" : [ "Cloud" ],
-      "title" : "Chaos Engineering"
-    },
-    "113" : {
-      "complexity" : "Beginner",
-      "description" : "In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more.",
-      "language" : "English",
-      "speakers" : [ "aygul" ],
-      "tags" : [ "Actions" ],
-      "title" : "Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays"
+      "title" : "Happier users through chaos engineering"
     },
 
     "121" : {
@@ -359,7 +349,7 @@
     },
     "122" : {
       "complexity" : "Beginner / Intermediate",
-      "description" : "TBA",
+      "description" : "The current state of Internet of Things is quite intimidating – you've got over a dozen different ways to get your data to the cloud, hundreds of different cloud providers providing you with their cloud, and virtually limitless ways of developing and deploying your IoT application. Around a year ago, I thought this industry was something that was impossible to get into, but yet here I am currently working on IoT prototypes. Come along and we'll see how easy it is to get data into \"the cloud\" and stick around for some helpful pointers. This talk will be a hardware walkthrough, where a boxed-up development board will be unboxed on stage and setup to securely transmit temperature data to a sample web application. A Texas Instruments LaunchPad development board with on-board Wi-Fi running Mongoose OS will be used for the talk. Google Cloud Platform will be used as well, using services such as Cloud IoT Core, Pub/Sub, Dataflow, Datastore and App Engine. You will get a brief rundown of the current state of IoT during the talk and will get to see a very tiny slice of it with plenty of pointers for other similar technologies for future research. ",
       "language" : "English",
       "speakers" : [ "andrejus" ],
       "tags" : [ "Cloud" ],
@@ -367,7 +357,7 @@
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "TBA",
+      "description" : "[LAPTOP ADVISED] Angular is a popular and powerful open-source development platform by Google, which lets us develop applications across all platforms, web, mobile, native mobile and native desktop. In this session, we will build a simple single page web application using Angular covering topics such as String Interpolation, Property and Event Binding and Component Interaction. It is a hands on session, so please bring a laptop, if you would like to follow along.",
       "language" : "English",
       "speakers" : [ "ashnita" ],
       "tags" : [ "Web" ],
@@ -391,8 +381,8 @@
       "photo" : "/images/people/laurence.jpg",
       "photoUrl" : "/images/people/laurence.jpg",
       "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/google.png",
+      "companyLogoUrl" : "/images/companies/google.png",
       "country" : "United States",
       "socials" : [ {
           "icon" : "twitter",
@@ -411,8 +401,8 @@
       "photo" : "/images/people/marc.jpg",
       "photoUrl" : "/images/people/marc.jpg",
       "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/google.png",
+      "companyLogoUrl" : "/images/companies/google.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -431,8 +421,8 @@
       "photo" : "/images/people/andrew.JPG",
       "photoUrl" : "/images/people/andrew.JPG",
       "company" : "OpenMined, University of Oxford",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/openminded.png",
+      "companyLogoUrl" : "/images/companies/openminded.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -448,8 +438,8 @@
       "photo" : "/images/people/andrejus.jpeg",
       "photoUrl" : "/images/people/andrejus.jpeg",
       "company" : "Think Engineer",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/think-engineer.png",
+      "companyLogoUrl" : "/images/companies/think-engineer.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -465,8 +455,8 @@
       "photo" : "/images/people/liam.jpg",
       "photoUrl" : "/images/people/liam.jpg",
       "company" : "IBM",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/ibm.png",
+      "companyLogoUrl" : "/images/companies/ibm.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -485,8 +475,8 @@
       "photo" : "/images/people/jenny.jpg",
       "photoUrl" : "/images/people/jenny.jpg",
       "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/google.png",
+      "companyLogoUrl" : "/images/companies/google.png",
       "country" : "United States",
       "socials" : [ {
         "icon" : "twitter",
@@ -505,8 +495,8 @@
       "photo" : "/images/people/rowan.jpg",
       "photoUrl" : "/images/people/rowan.jpg",
       "company" : "Google",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/google.png",
+      "companyLogoUrl" : "/images/companies/google.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -525,8 +515,8 @@
       "photo" : "/images/people/simon.jpg",
       "photoUrl" : "/images/people/simon.jpg",
       "company" : "Leading Edge Forum",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/leading-edge.png",
+      "companyLogoUrl" : "/images/companies/leading-edge.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -540,13 +530,13 @@
     "busra" : {
       "name" : "Busra Deniz Akin",
       "featured" : true,
-      "bio" : "I’m Busra, a London-based software engineer who has a keen interest in developing high-quality software. Currently, I’m working as android developer at The App Business. Besides being co-organizer in two different communities, Google Developer Group and Women Techmakers London, I really enjoy voluntarily organising tech events and speaking at developer conferences. I strongly believe in sharing knowledge and collaborating with the other people through these events will come hand in hand with innovation and new perspectives.",
+      "bio" : "Buşra Deniz Akin is a software engineer who has a keen interest in developing high-quality mobile applications. Currently, she’s working for The App Business. Besides being co-organizer in two different communities, Google Developer Group and WomenTechMakers London, she enjoys voluntarily organising and speaking at developer events and believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives.",
       "shortBio" : "I’m Busra, a London-based software engineer who has a keen interest in developing...",
       "photo" : "/images/people/busra.jpg",
       "photoUrl" : "/images/people/busra.jpg",
       "company" : "The App Business (TAB)",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/tab.png",
+      "companyLogoUrl" : "/images/companies/tab.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -565,8 +555,8 @@
       "photo" : "/images/people/nick.png",
       "photoUrl" : "/images/people/nick.png",
       "company" : "Real Kinetic",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/real-kinetic.png",
+      "companyLogoUrl" : "/images/companies/real-kinetic.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -585,8 +575,8 @@
       "photo" : "/images/people/amanda.jpg",
       "photoUrl" : "/images/people/amanda.jpg",
       "company" : "Resolver",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/resolver.png",
+      "companyLogoUrl" : "/images/companies/resolver.png",
       "country" : "United Kingdom",
       "socials" : [ {
         
@@ -601,8 +591,8 @@
       "photo" : "/images/people/aidan.jpg",
       "photoUrl" : "/images/people/aidan.jpg",
       "company" : "Google Brain, University of Oxford",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/google-ai.png",
+      "companyLogoUrl" : "/images/companies/google-ai.png",
       "country" : "Canada, United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -621,8 +611,8 @@
       "photo" : "/images/people/kubra.jpg",
       "photoUrl" : "/images/people/kubra.jpg",
       "company" : "Pulselive",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
+      "companyLogo" : "/images/companies/pulselive.png",
+      "companyLogoUrl" : "/images/companies/pulselive.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -633,42 +623,25 @@
       } ],
       "title" : "Android Developer"
     },
-    "aygul" : {
-      "name" : "Aygul Zagidullina",
-      "featured" : true,
-      "bio" : "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
-      "shortBio" : "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience...",
-      "photo" : "/images/people/aygul.jpg",
-      "photoUrl" : "/images/people/aygul.jpg",
-      "company" : "Motaword",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
-      "country" : "United Kingdom",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/aygul"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/aygulzagidullina/"
-      } ],
-      "title" : "Director of Social Media"
-    },
     "felipe" : {
       "name" : "Felipe Conde",
       "featured" : false,
-      "bio" : "The way we build applications changed drastically in the recent years. Even though they've been around for decades, the Android community has been bombarded by all sorts of acronyms defining architectures.",
-      "shortBio" : "The way we build applications changed drastically in the recent years. Even though they've...",
+      "bio" : "Felipe is an Android developer with experience that started when API was still on version 4. Currently works @Pulselive building next-generation digital sports apps using the latest technologies. Passionate about team structure and dynamics, always looking for ways to make teams as collaborative as possible.",
+      "shortBio" : "Felipe is an Android developer with experience that started when API was still on version 4...",
       "photo" : "/images/people/felipe.jpg",
       "photoUrl" : "/images/people/felipe.jpg",
       "company" : "Pulselive",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "companyLogo" : "/images/companies/pulselive.png",
+      "companyLogoUrl" : "/images/companies/pulselive.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/felipe-conde-7475a950/"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/condesales"
       } ],
-      "title" : "TBA"
+      "title" : "Android Developer"
     },
     "jamie" : {
       "name" : "Jamie Adkins",
@@ -695,8 +668,8 @@
       "photo" : "/images/people/patrick.jpg",
       "photoUrl" : "/images/people/patrick.jpg",
       "company" : "Stink Studios",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "companyLogo" : "/images/companies/stink-studios.png",
+      "companyLogoUrl" : "/images/companies/stink-studios.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "linkedin",
@@ -711,10 +684,10 @@
       "shortBio" : "Ashnita is a front-end developer who loves JavaScript and Angular. She studied Management...",
       "photo" : "/images/people/ashnita.jpg",
       "photoUrl" : "/images/people/ashnita.jpg",
-      "company" : "TBA",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "TBA",
+      "company" : "Fantoo",
+      "companyLogo" : "/images/companies/fantoo.png",
+      "companyLogoUrl" : "/images/companies/fantoo.png",
+      "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/ashnita01"
@@ -722,18 +695,18 @@
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/ashnita-bali/"
       } ],
-      "title" : "TBA"
+      "title" : "Web Developer"
     },
     "faris" : {
       "name" : "Faris A. Almalki",
       "featured" : true,
-      "bio" : "Dr Faris A. Almalki is an assistance professor in wireless communication and Satellites at Taif University in KSA, MSc and PhD from Kent University and Brunel University London, respectively. He is a Member of the IEEE Communication Society. His research interests include Low- and High-Altitude Platforms and theirapplication in Ad hoc wireless networks. He has published several scientific research papers in the field.", 
-      "shortBio" : "Dr Faris A. Almalki is an assistance professor in wireless communication and Satellites at...",
+      "bio" : "Dr Faris A. Almalki is an assistant professor in wireless communication and Satellites at Taif University in KSA, MSc and PhD from Kent University and Brunel University London, respectively. He is a Member of the IEEE Communication Society. His research interests include Low- and High-Altitude Platforms and their application in Ad hoc wireless networks. He has published several scientific research papers in the field.", 
+      "shortBio" : "Dr Faris A. Almalki is an assistant professor in wireless communication and Satellites at...",
       "photo" : "/images/people/faris.jpg",
       "photoUrl" : "/images/people/faris.jpg",
       "company" : "Taif University",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "companyLogo" : "/images/companies/taif-uni.png",
+      "companyLogoUrl" : "/images/companies/taif-uni.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -747,18 +720,18 @@
     "aleksandr" : {
       "name" : "Aleksandr Litovchenko",
       "featured" : false,
-      "bio" : "TBA", 
-      "shortBio" : "TBA",
-      "photo" : "/images/people/aleksandr.jpg",
-      "photoUrl" : "/images/people/aleksandr.jpg",
-      "company" : "TBA",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
+      "bio" : "I’m a Senior Software Android Engineer at Badoo. I’ve had the chance to work on all different sized applications, going from startups to the biggest social network. Production programming is not just something I enjoy at work. I really enjoy participating in hackathons - especially if I win them! - and I like solving the most challenging coding problems.", 
+      "shortBio" : "I’m a Senior Software Android Engineer at Badoo. I’ve had the chance to work on all...",
+      "photo" : "/images/people/aleksandr.JPG",
+      "photoUrl" : "/images/people/aleksandr.JPG",
+      "company" : "Badoo",
+      "companyLogo" : "/images/companies/badoo.png",
+      "companyLogoUrl" : "/images/companies/badoo.png",
       "country" : "United Kingdom",
       "socials" : [ {
         
       } ],
-      "title" : "TBA"
+      "title" : "Software Engineer"
     }
   },
   "team" : [ {
