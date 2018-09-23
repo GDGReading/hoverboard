@@ -250,7 +250,7 @@
     },
     "53" : {
       "complexity" : "Beginner",
-      "description" : "TBA",
+      "description" : "[LAPTOP ADVISED]",
       "language" : "English",
       "speakers" : [ "kubra", "patrick" ],
       "tags" : [ "Android" ],
@@ -357,7 +357,7 @@
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "Angular is a popular and powerful open-source development platform by Google, which lets us develop applications across all platforms, web, mobile, native mobile and native desktop. In this session, we will build a simple single page web application using Angular covering topics such as String Interpolation, Property and Event Binding and Component Interaction. It is a hands on session, so please bring a laptop, if you would like to follow along.",
+      "description" : "[LAPTOP ADVISED] Angular is a popular and powerful open-source development platform by Google, which lets us develop applications across all platforms, web, mobile, native mobile and native desktop. In this session, we will build a simple single page web application using Angular covering topics such as String Interpolation, Property and Event Binding and Component Interaction. It is a hands on session, so please bring a laptop, if you would like to follow along.",
       "language" : "English",
       "speakers" : [ "ashnita" ],
       "tags" : [ "Web" ],
