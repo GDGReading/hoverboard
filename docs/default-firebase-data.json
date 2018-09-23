@@ -161,8 +161,6 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
-        }, {
-          "items" : [ 113 ]
         } ]
       }, {
         "startTime" : "16:40",
@@ -339,14 +337,6 @@
       "speakers" : [ "nick" ],
       "tags" : [ "Cloud" ],
       "title" : "Happier users through chaos engineering"
-    },
-    "113" : {
-      "complexity" : "Beginner",
-      "description" : "In an ever-expanding world of devices for the Google Assistant (smart speaker, smartphone, tablet, smartwatch, earphones, smart TV, car, smart display, and the list goes on and on), developers face today completely new challenges in creating effective and consistent experiences for users. In this talk, we’ll take a closer look at our user’s daily journey as they’re moving from one device to another and cover some key considerations for designing Actions on Google across surfaces - with useful tips to understand when and how to leverage visuals alongside voice interactions, to create rich, delightful conversational experiences for smart displays and more.",
-      "language" : "English",
-      "speakers" : [ "aygul" ],
-      "tags" : [ "Actions" ],
-      "title" : "Beyond Smart Speakers: Get Your Google Assistant Apps Ready for Smart Displays"
     },
 
     "121" : {
@@ -632,26 +622,6 @@
         "link" : "https://www.linkedin.com/in/kubraharmankaya/"
       } ],
       "title" : "Android Developer"
-    },
-    "aygul" : {
-      "name" : "Aygul Zagidullina",
-      "featured" : true,
-      "bio" : "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.",
-      "shortBio" : "Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience...",
-      "photo" : "/images/people/aygul.jpg",
-      "photoUrl" : "/images/people/aygul.jpg",
-      "company" : "Motaword",
-      "companyLogo" : "/images/logos/google.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/google.svg",
-      "country" : "United Kingdom",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/aygul"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/aygulzagidullina/"
-      } ],
-      "title" : "Director of Social Media"
     },
     "felipe" : {
       "name" : "Felipe Conde",
