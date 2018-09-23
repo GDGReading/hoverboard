@@ -328,7 +328,7 @@
       "complexity" : "Beginner / Intermediate",
       "description" : "Progressive Web Apps enable fast, integrated, reliable and engaging web experiences. Browser vendors are enabling progressive experiences, not only through mobile web apps but also installable desktop applications. We’ll look at the new technologies that are transforming the web and why and how these can enable better experiences for users.",
       "language" : "English",
-      "speakers" : [ "jenny", "rowan" ],
+      "speakers" : [ "jenny" ],
       "tags" : [ "Web" ],
       "title" : "Progressive Web Apps - Transforming the web for greater engagement"
     },
