@@ -515,8 +515,8 @@
       "photo" : "/images/people/simon.jpg",
       "photoUrl" : "/images/people/simon.jpg",
       "company" : "Leading Edge Forum",
-      "companyLogo" : "/images/companies/leading-edge.jpg",
-      "companyLogoUrl" : "/images/companies/leading-edge.jpg",
+      "companyLogo" : "/images/companies/leading-edge.png",
+      "companyLogoUrl" : "/images/companies/leading-edge.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -535,8 +535,8 @@
       "photo" : "/images/people/busra.jpg",
       "photoUrl" : "/images/people/busra.jpg",
       "company" : "The App Business (TAB)",
-      "companyLogo" : "/images/companies/tab.jpg",
-      "companyLogoUrl" : "/images/companies/tab.jpg",
+      "companyLogo" : "/images/companies/tab.png",
+      "companyLogoUrl" : "/images/companies/tab.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
@@ -668,8 +668,8 @@
       "photo" : "/images/people/patrick.jpg",
       "photoUrl" : "/images/people/patrick.jpg",
       "company" : "Stink Studios",
-      "companyLogo" : "/images/companies/stink-studios.jpg",
-      "companyLogoUrl" : "/images/companies/stink-studios.jpg",
+      "companyLogo" : "/images/companies/stink-studios.png",
+      "companyLogoUrl" : "/images/companies/stink-studios.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "linkedin",
@@ -705,8 +705,8 @@
       "photo" : "/images/people/faris.jpg",
       "photoUrl" : "/images/people/faris.jpg",
       "company" : "Taif University",
-      "companyLogo" : "/images/companies/taif-uni.jpg",
-      "companyLogoUrl" : "/images/companies/taif-uni.jpg",
+      "companyLogo" : "/images/companies/taif-uni.png",
+      "companyLogoUrl" : "/images/companies/taif-uni.png",
       "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "twitter",
