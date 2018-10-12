@@ -145,8 +145,6 @@
           "items" : [ 91 ]
         }, {
           "items" : [ 92 ]
-        }, {
-          "items" : [ 93 ]
         } ]
       }, {
         "startTime" : "15:20",
@@ -305,14 +303,6 @@
       "speakers" : [ "marc" ],
       "tags" : [ "Cloud" ],
       "title" : "Superpower User Manual"
-    },
-    "93" : {
-      "complexity" : "Beginner / Intermediate",
-      "description" : "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background. In this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We’ll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit",
-      "language" : "English",
-      "speakers" : [ "busra" ],
-      "tags" : [ "ML" ],
-      "title" : "Creating ML-powered applications"
     },
     
     "100" : {
@@ -529,26 +519,6 @@
         "link" : "https://www.linkedin.com/in/simonwardley/"
       } ],
       "title" : "Researcher"
-    },
-    "busra" : {
-      "name" : "Busra Deniz Akin",
-      "featured" : true,
-      "bio" : "Buşra Deniz Akin is a software engineer who has a keen interest in developing high-quality mobile applications. Currently, she’s working for The App Business. Besides being co-organizer in two different communities, Google Developer Group and WomenTechMakers London, she enjoys voluntarily organising and speaking at developer events and believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives.",
-      "shortBio" : "I’m Busra, a London-based software engineer who has a keen interest in developing...",
-      "photo" : "/images/people/busra.jpg",
-      "photoUrl" : "/images/people/busra.jpg",
-      "company" : "The App Business (TAB)",
-      "companyLogo" : "/images/companies/tab.png",
-      "companyLogoUrl" : "/images/companies/tab.png",
-      "country" : "United Kingdom",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/busradeniz"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/busradeniz/"
-      } ],
-      "title" : "Android Developer"
     },
     "nick" : {
       "name" : "Nick Joyce",
