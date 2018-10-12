@@ -105,7 +105,7 @@
         }, {
           "items" : [ 42 ]
         }, {
-          "items" : [ 123 ]
+          "items" : [ 43 ]
         } ]
       }, {
         "startTime" : "11:00",
@@ -145,8 +145,6 @@
           "items" : [ 91 ]
         }, {
           "items" : [ 92 ]
-        }, {
-          "items" : [ 93 ]
         } ]
       }, {
         "startTime" : "15:20",
@@ -170,7 +168,7 @@
         }, {
           "items" : [ 122 ]
         }, {
-          "items" : [ 43 ]
+          "items" : [ 123 ]
         } ]
       }, {
         "startTime" : "17:20",
@@ -305,14 +303,6 @@
       "speakers" : [ "marc" ],
       "tags" : [ "Cloud" ],
       "title" : "Superpower User Manual"
-    },
-    "93" : {
-      "complexity" : "Beginner / Intermediate",
-      "description" : "Each day we are hearing yet another application that announces a new cool feature powered by machine learning. It’s pretty exciting but when the time comes to deep diving into machine learning, it can be intimidating, especially if you don’t have machine learning background. In this session, you will get the gist of newly announced MLKit & Tensorflow Lite. We’ll be learning about MLKit features and creating custom Tensorflow model and using it in app via MLKit",
-      "language" : "English",
-      "speakers" : [ "busra" ],
-      "tags" : [ "ML" ],
-      "title" : "Creating ML-powered applications"
     },
     
     "100" : {
@@ -473,8 +463,8 @@
     "jenny" : {
       "name" : "Jenny Gove",
       "featured" : true,
-      "bio" : "Jennifer Gove is a Senior User Experience Researcher at Google where she works on mobile and tablet research in advertising. In prior roles Jennifer has managed the Apps, Social, and Ads User Research teams at Google, conducted user research at Sun Microsystems, and created interaction designs for communication and collaboration across the internet at a start-up, Zadu. Jennifer started her career in academia, and was a University Lecturer at the Open University in the UK, where she conducted Educational Technology research. She received her Ph.D. from the University of Southampton in the UK",
-      "shortBio" : "Jennifer Gove is a Senior User Experience Researcher at Google where she works on mobile and...",
+      "bio" : "Jenny Gove is a user experience research lead at Google, where she conducts research on device use. Jenny's current area of focus is online Payments. Previously Jenny managed the Apps, Social, and Ads Design Research teams at Google. Prior affiliations includes Sun Microsystems, Zadu, and the Open University, UK. She received her Ph.D. from the University of Southampton in the UK.",
+      "shortBio" : "Jenny Gove is a user experience research lead at Google, where she conducts research on device use...",
       "photo" : "/images/people/jenny.jpg",
       "photoUrl" : "/images/people/jenny.jpg",
       "company" : "Google",
@@ -529,26 +519,6 @@
         "link" : "https://www.linkedin.com/in/simonwardley/"
       } ],
       "title" : "Researcher"
-    },
-    "busra" : {
-      "name" : "Busra Deniz Akin",
-      "featured" : true,
-      "bio" : "Buşra Deniz Akin is a software engineer who has a keen interest in developing high-quality mobile applications. Currently, she’s working for The App Business. Besides being co-organizer in two different communities, Google Developer Group and WomenTechMakers London, she enjoys voluntarily organising and speaking at developer events and believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives.",
-      "shortBio" : "I’m Busra, a London-based software engineer who has a keen interest in developing...",
-      "photo" : "/images/people/busra.jpg",
-      "photoUrl" : "/images/people/busra.jpg",
-      "company" : "The App Business (TAB)",
-      "companyLogo" : "/images/companies/tab.png",
-      "companyLogoUrl" : "/images/companies/tab.png",
-      "country" : "United Kingdom",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/busradeniz"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/busradeniz/"
-      } ],
-      "title" : "Android Developer"
     },
     "nick" : {
       "name" : "Nick Joyce",
@@ -653,23 +623,23 @@
       "shortBio" : "Jamie is an Android Developer at Pulselive, where he combines his love for Android development...",
       "photo" : "/images/people/jamie.jpg",
       "photoUrl" : "/images/people/jamie.jpg",
-      "company" : "TBA",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "TBA",
+      "company" : "Pulselive",
+      "companyLogo" : "/images/companies/pulselive.png",
+      "companyLogoUrl" : "/images/companies/pulselive.png",
+      "country" : "United Kingdom",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/jamieadkins95/"
       } ],
-      "title" : "TBA"
+      "title" : "Android Developer"
     },
     "patrick" : {
       "name" : "Patrick Arminio",
       "featured" : false,
-      "bio" : "TBA",
-      "shortBio" : "TBA",
-      "photo" : "/images/people/patrick.jpg",
-      "photoUrl" : "/images/people/patrick.jpg",
+      "bio" : "Patrick loves experimenting with code, programming languages and the open source movement and philosophy. He always tries to learn new things having a look to other people's code. He also tend to travel a lot for conferences in order to keep his knowledge up to date and to meet new interesting people. He also love organising events and conference.",
+      "shortBio" : "Patrick loves experimenting with code, programming languages and the open source movement...",
+      "photo" : "/images/people/patrick.jpeg",
+      "photoUrl" : "/images/people/patrick.jpeg",
       "company" : "Stink Studios",
       "companyLogo" : "/images/companies/stink-studios.png",
       "companyLogoUrl" : "/images/companies/stink-studios.png",
@@ -732,7 +702,8 @@
       "companyLogoUrl" : "/images/companies/badoo.png",
       "country" : "United Kingdom",
       "socials" : [ {
-        
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/litun1/"
       } ],
       "title" : "Software Engineer"
     }
