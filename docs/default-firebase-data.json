@@ -149,6 +149,8 @@
           "items" : [ 91 ]
         }, {
           "items" : [ 92 ]
+        }, {
+          "items" : [ 93 ]
         } ]
       }, {
         "startTime" : "15:20",
@@ -308,6 +310,14 @@
       "speakers" : [ "marc" ],
       "tags" : [ "Cloud" ],
       "title" : "Superpower User Manual"
+    },
+    "93" : {
+      "complexity" : "Beginner / Intermediate",
+      "description" : "Android is an extremely open architecture, that allows us to do unique things. Combined with the immense power of Firebase, we can very quickly hook up a backend service without too much difficulty. In this CodeLab, we will be making a simple android application, connecting it to firebase, and linking it to Python. The app will be able to launch software on our computers. Pre-reqs: Android Studio and Java, A Google account (for firebase), Some python IDE, Some experience with Java",
+      "language" : "English",
+      "speakers" : [ "karthik" ],
+      "tags" : [ "Android" ],
+      "title" : "Android + Firebase"
     },
     
     "100" : {
@@ -711,6 +721,19 @@
         "link" : "https://www.linkedin.com/in/litun1/"
       } ],
       "title" : "Software Engineer"
+    },
+    "karthik" : {
+      "name" : "Karthik Nooli",
+      "featured" : false,
+      "bio" : "Karthik is a student at Farnborough 6th form college, with a strong interest in computer science and programming. Karthik has been developing in android for around 4 years and has experience in other languages such as Python, Web, C#, etc. He loves being able to do amazing and wonderful things with code, even more so if it involves android!", 
+      "shortBio" : "Karthik is a student at Farnborough 6th form college, with a strong interest in...",
+      "photo" : "/images/people/karthik.png",
+      "photoUrl" : "/images/people/karthik.png",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "United Kingdom",
+      "title" : "Student"
     }
   },
   "team" : [ {
