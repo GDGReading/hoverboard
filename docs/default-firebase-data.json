@@ -79,6 +79,10 @@
       "logoUrl" : "/images/sponsors/github.png",
       "name" : "GitHub Education",
       "url" : "https://education.github.com/"
+    }, {
+      "logoUrl" : "/images/sponsors/iet.jpg",
+      "name" : "The Institution of Engineering and Technologoy",
+      "url" : "https://www.theiet.org/"
     } ],
     "title" : "Sponsors"
   } ],
