@@ -440,8 +440,8 @@
       "featured" : true,
       "bio" : "Andrejus is an IoT Cloud specialist at a small start-up and a student at the Univesity of Reading. He actively engages with the local community by co-organising GDG Reading & Thames Valley as well as leading the student hackathon society.",
       "shortBio" : "Andrejus is an IoT Cloud specialist at a small start-up and a student at the Univesity of...",
-      "photo" : "/images/people/andrejus.jpeg",
-      "photoUrl" : "/images/people/andrejus.jpeg",
+      "photo" : "/images/people/andrejus.jpg",
+      "photoUrl" : "/images/people/andrejus.jpg",
       "company" : "Think Engineer",
       "companyLogo" : "/images/companies/think-engineer.png",
       "companyLogoUrl" : "/images/companies/think-engineer.png",
@@ -796,7 +796,7 @@
       "title" : "Co-Organiser, Android Specialist"
     }, {
       "name" : "Andrejus Kostarevas",
-      "photoUrl" : "/images/people/andrejus.jpeg",
+      "photoUrl" : "/images/people/andrejus.jpg",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/akostarevas",
