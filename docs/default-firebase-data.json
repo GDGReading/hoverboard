@@ -79,6 +79,10 @@
       "logoUrl" : "/images/sponsors/github.png",
       "name" : "GitHub Education",
       "url" : "https://education.github.com/"
+    }, {
+      "logoUrl" : "/images/sponsors/iet.jpg",
+      "name" : "The Institution of Engineering and Technologoy",
+      "url" : "https://www.theiet.org/"
     } ],
     "title" : "Sponsors"
   } ],
@@ -145,6 +149,8 @@
           "items" : [ 91 ]
         }, {
           "items" : [ 92 ]
+        }, {
+          "items" : [ 93 ]
         } ]
       }, {
         "startTime" : "15:20",
@@ -159,6 +165,9 @@
           "items" : [ 111 ]
         }, {
           "items" : [ 112 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 123 ]
         } ]
       }, {
         "startTime" : "16:40",
@@ -167,8 +176,6 @@
           "items" : [ 121 ]
         }, {
           "items" : [ 122 ]
-        }, {
-          "items" : [ 123 ]
         } ]
       }, {
         "startTime" : "17:20",
@@ -304,6 +311,14 @@
       "tags" : [ "Cloud" ],
       "title" : "Superpower User Manual"
     },
+    "93" : {
+      "complexity" : "Beginner / Intermediate",
+      "description" : "Android is an extremely open architecture, that allows us to do unique things. Combined with the immense power of Firebase, we can very quickly hook up a backend service without too much difficulty. In this CodeLab, we will be making a simple android application, connecting it to firebase, and linking it to Python. The app will be able to launch software on our computers. Pre-reqs: Android Studio and Java, A Google account (for firebase), Some python IDE, Some experience with Java",
+      "language" : "English",
+      "speakers" : [ "karthik" ],
+      "tags" : [ "Android" ],
+      "title" : "Android + Firebase"
+    },
     
     "100" : {
       "description" : "Tea Break",
@@ -425,8 +440,8 @@
       "featured" : true,
       "bio" : "Andrejus is an IoT Cloud specialist at a small start-up and a student at the Univesity of Reading. He actively engages with the local community by co-organising GDG Reading & Thames Valley as well as leading the student hackathon society.",
       "shortBio" : "Andrejus is an IoT Cloud specialist at a small start-up and a student at the Univesity of...",
-      "photo" : "/images/people/andrejus.jpeg",
-      "photoUrl" : "/images/people/andrejus.jpeg",
+      "photo" : "/images/people/andrejus.jpg",
+      "photoUrl" : "/images/people/andrejus.jpg",
       "company" : "Think Engineer",
       "companyLogo" : "/images/companies/think-engineer.png",
       "companyLogoUrl" : "/images/companies/think-engineer.png",
@@ -706,6 +721,19 @@
         "link" : "https://www.linkedin.com/in/litun1/"
       } ],
       "title" : "Software Engineer"
+    },
+    "karthik" : {
+      "name" : "Karthik Nooli",
+      "featured" : false,
+      "bio" : "Karthik is a student at Farnborough 6th form college, with a strong interest in computer science and programming. Karthik has been developing in android for around 4 years and has experience in other languages such as Python, Web, C#, etc. He loves being able to do amazing and wonderful things with code, even more so if it involves android!", 
+      "shortBio" : "Karthik is a student at Farnborough 6th form college, with a strong interest in...",
+      "photo" : "/images/people/karthik.png",
+      "photoUrl" : "/images/people/karthik.png",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "United Kingdom",
+      "title" : "Student"
     }
   },
   "team" : [ {
@@ -768,7 +796,7 @@
       "title" : "Co-Organiser, Android Specialist"
     }, {
       "name" : "Andrejus Kostarevas",
-      "photoUrl" : "/images/people/andrejus.jpeg",
+      "photoUrl" : "/images/people/andrejus.jpg",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/akostarevas",
