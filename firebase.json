@@ -13,10 +13,6 @@
       "destination": "/",
       "type" : 301
     }],
-    "rewrites": [{
-      "source": "**",
-      "function": "prerender"
-    }],
     "ignore": [
       "/test/**",
       "bower.json",
