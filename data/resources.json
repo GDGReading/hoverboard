@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG Reading DevFest 2019",
   "description": "Be a hero. Be a GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "October 26, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -36,18 +36,18 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Reading",
+          "url": "https://www.gdgreading.dev/",
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
+          "name": "Google Developer Group",
           "url": "https://developers.google.com/groups/",
           "newTab": true
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "url": "/team/",
           "newTab": true
         }
       ]
@@ -56,23 +56,23 @@
       "title": "Explore Past DevFests",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "DevFest 2018",
+          "url": "https://fest18.gdgreading.dev/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "DevFest 2017",
+          "url": "https://devfest2017-df0c9.firebaseapp.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "DevFest 2016",
+          "url": "https://reading-gdg.appspot.com/",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevFest 2015",
+          "url": "https://rtv-devfest.appspot.com/",
           "newTab": true
         }
       ]
@@ -81,14 +81,14 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "Call for Speakers",
+          "url": "/tba/",
           "newTab": true
         },
         {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
+          "name": "Code of Conduct",
+          "url": "/cod/",
+          "newTab": false
         },
         {
           "name": "Media Kit",
@@ -114,32 +114,32 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "GDG Reading DevFest brings together the world class experts in ML, Android, Web and Cloud technologies to Thames Valley for a full day of sessions, workshops and showcases.",
+        "label": "See the meetup page",
+        "link": "https://www.meetup.com/GDG-Reading-Thames-Valley/events/262918960/"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "With years of experience, our awesome team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "label": "See how it was in 2015",
+        "youtubeId": "Lm-6I-c128w"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "150+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "Speakers",
+        "number": "10+"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15+"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
@@ -162,7 +162,7 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Reading DevFest'18 featured videos",
     "callToAction": {
       "label": "See all videos",
       "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
@@ -199,7 +199,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#GDG #rdguk highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
@@ -227,7 +227,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developer Group (GDG) Reading](https://www.gdgreading.dev/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with UK audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -259,8 +259,8 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organiser",
+        "description": "<a href='https://www.gdgreading.dev' target='_blank'>GDG Reading</a> with support of other GDGs from around the UK is proud to organise this DevFest",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
