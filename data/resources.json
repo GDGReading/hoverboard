@@ -82,13 +82,8 @@
       "links": [
         {
           "name": "Call for Speakers",
-          "url": "/tba/",
+          "url": "https://forms.gle/4QrgeBsxW1X2JwWn6",
           "newTab": true
-        },
-        {
-          "name": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
         },
         {
           "name": "FAQs",
