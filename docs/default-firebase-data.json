@@ -98,6 +98,7 @@
         "link": "https://www.linkedin.com/in/perusha-moodley/",
         "name": "LinkedIn"
       } ],
+      "order": 0,
       "title" : "Co-Organiser, ML Specialist"
     }, {
       "name" : "Atif Khan",
@@ -107,6 +108,7 @@
         "link": "https://www.linkedin.com/in/atif-khan-a251411/",
         "name": "LinkedIn"
       } ],
+      "order": 1,
       "title" : "Co-Organiser, Python/Data Specialist"
     }, {
       "name" : "Chris Guest",
@@ -120,6 +122,7 @@
         "link": "https://www.linkedin.com/in/chris-guest-7676793/",
         "name": "LinkedIn"
       } ],
+      "order": 2,
       "title" : "Co-Organiser, Cloud/DevOps specialist"
     }, {
       "name" : "Nana Fifield",
@@ -133,6 +136,7 @@
         "link": "https://www.linkedin.com/in/nfifield/",
         "name": "LinkedIn"
       } ],
+      "order": 3,
       "title" : "Co-Organiser, IoT specialist"
     }, {
       "name" : "Kübra Harmankaya",
@@ -142,6 +146,7 @@
         "link": "https://www.linkedin.com/in/kubraharmankaya/",
         "name": "LinkedIn"
       } ],
+      "order": 4,
       "title" : "Co-Organiser, Android Specialist"
     }, {
       "name" : "Andrejus Kostarevas",
@@ -155,6 +160,7 @@
         "link": "https://www.linkedin.com/in/andrejusk/",
         "name": "LinkedIn"
       } ],
+      "order": 5,
       "title" : "Co-Organiser, Cloud IoT Specialist"
     }, {
       "name" : "Ming Gao",
@@ -164,6 +170,7 @@
         "link": "https://www.linkedin.com/in/ming-gao-a3759257/",
         "name": "LinkedIn"
       } ],
+      "order": 6,
       "title" : "Co-Organiser, ML Specialist"
     }, {
       "name": "Florian Rathgeber",
@@ -177,6 +184,7 @@
         "link": "https://www.linkedin.com/in/florianrathgeber",
         "name": "LinkedIn"
       }],
+      "order": 7,
       "title": "Co-Organiser, Google SRE"
     } ],
     "title" : "Core Team"
