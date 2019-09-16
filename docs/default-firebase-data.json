@@ -186,12 +186,16 @@
       "name" : "Nick Joyce",
       "photoUrl" : "/images/team/nick.png",
       "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/nick_joyce",
+        "name" : "Twitter"
+      }, {
         "icon": "linkedin",
         "link": "https://www.linkedin.com/in/nick-joyce/",
         "name": "LinkedIn"
       } ],
       "order": 8,
-      "title" : "Co-Organiser"
+      "title" : "Cloud DevOps specialist/GDE"
     } ],
     "title" : "Core Team"
   } ],
