@@ -161,7 +161,7 @@
         "name": "LinkedIn"
       } ],
       "order": 5,
-      "title" : "Co-Organiser, Cloud IoT Specialist"
+      "title" : "Co-Organiser, Cloud Specialist"
     }, {
       "name" : "Ming Gao",
       "photoUrl" : "/images/team/ming.jpg",
@@ -173,19 +173,25 @@
       "order": 6,
       "title" : "Co-Organiser, ML Specialist"
     }, {
-      "name": "Florian Rathgeber",
-      "photoUrl": "/images/team/florian_rathgeber.jpg",
+      "name": "Ashnita Bali",
+      "photoUrl": "/images/team/ashnita.jpg",
       "socials": [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/frathgeber",
-        "name" : "Twitter"
-      },{
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/florianrathgeber",
+        "link": "https://www.linkedin.com/in/ashnita-bali/",
         "name": "LinkedIn"
       }],
       "order": 7,
-      "title": "Co-Organiser, Google SRE"
+      "title": "Co-Organiser"
+    }, {
+      "name" : "Nick Joyce",
+      "photoUrl" : "/images/team/nick.jpg",
+      "socials" : [ {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nick-joyce/",
+        "name": "LinkedIn"
+      } ],
+      "order": 8,
+      "title" : "Co-Organiser"
     } ],
     "title" : "Core Team"
   } ],
