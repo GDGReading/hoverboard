@@ -8,17 +8,15 @@
   },
   "hosting": {
     "public": "./build",
-    "redirects": [
-      {
-        "source": "/index.html",
-        "destination": "/",
-        "type" : 301
-      },
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ],
+    "redirects": [{
+      "source": "/index.html",
+      "destination": "/",
+      "type" : 301
+    }],
+    "rewrites": [{
+      "source": "**",
+      "function": "prerender"
+    }],
     "ignore": [
       "/test/**",
       "bower.json",
