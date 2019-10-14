@@ -215,14 +215,14 @@
     },
 
     "41" : {
-      "description": "General Note: Understanding that architecture is always a trade-off is necessary for developing great software solutions, In this talk I'll try simplify to the audience a complex idea while showing them a whole new way to master software architecture principles. \n Abstract: In chaos theory, the butterfly effect is the dependence in which a small change in a state can result in large differences in a later state.Together we’ll create a design step by step and discover how cloud architecture is affected by constraints, tradeoffs, and how each change ripples in your design. \n Desc: Architecture and solution design can be challenging and involves tradeoffs and understanding concerns when we start developing a new service/solution we do not start from a huge “monster”, we start with one simple “service” that does it all, and iterate on it, adding requirements. In this talk, we will architect such solution together, step by step we will start from simple service and will see how each constraint adds complexity, which affects the building blocks we choose, and how each restriction changes our architecture. Together we will understand the challenges, we’ll face constraints, going back and forth adjusting and modifying the architecture, while visiting issues like cloud patterns, cost and we’ll finish with takeaways of things you shouldn’t forget when you architecting your own solution.",
+      "description": "General Note: Understanding that architecture is always a trade-off is necessary for developing great software solutions, In this talk I'll try simplify to the audience a complex idea while showing them a whole new way to master software architecture principles.\n\nAbstract: In chaos theory, the butterfly effect is the dependence in which a small change in a state can result in large differences in a later state.Together we’ll create a design step by step and discover how cloud architecture is affected by constraints, tradeoffs, and how each change ripples in your design.\n\nDesc: Architecture and solution design can be challenging and involves tradeoffs and understanding concerns when we start developing a new service/solution we do not start from a huge “monster”, we start with one simple “service” that does it all, and iterate on it, adding requirements. In this talk, we will architect such solution together, step by step we will start from simple service and will see how each constraint adds complexity, which affects the building blocks we choose, and how each restriction changes our architecture. Together we will understand the challenges, we’ll face constraints, going back and forth adjusting and modifying the architecture, while visiting issues like cloud patterns, cost and we’ll finish with takeaways of things you shouldn’t forget when you architecting your own solution.",
       "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "ayelet" ],
       "title" : "Cloud Architecture : The butterfly effect "
     },
     "42" : {
-      "description": "In this talk, I start by introducing two key concepts in privacy-preserving machine learning: Federated Learning and Secure Multi-Party Encryption. Then, I demonstrate how  PySyft, an open-source framework developed by the OpenMined community, provides an easy-to-use implementation of those solutions. \n I  argue that privacy-preserving machine learning solutions have the potential to not only protect users' data privacy, but also to enable building models with improved performance when working on data with high accessibility restrictions (e.g. GDPR in Europe). \n I provide a concrete example of such a use case encountered in the NLP field, and demonstrate our first efforts towards building a NLP library on top of PySyft that empowers such solutions.",
+      "description": "In this talk, I start by introducing two key concepts in privacy-preserving machine learning: Federated Learning and Secure Multi-Party Encryption. Then, I demonstrate how  PySyft, an open-source framework developed by the OpenMined community, provides an easy-to-use implementation of those solutions.\n\nI  argue that privacy-preserving machine learning solutions have the potential to not only protect users' data privacy, but also to enable building models with improved performance when working on data with high accessibility restrictions (e.g. GDPR in Europe).\n\nI provide a concrete example of such a use case encountered in the NLP field, and demonstrate our first efforts towards building a NLP library on top of PySyft that empowers such solutions.",
       "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "alan" ],
@@ -237,18 +237,18 @@
     },
 
     "51" : {
-      "description": "The world of virtual reality allows us to build new 3D interactive spaces that we can fill with anything we want - like the art of the great Renaissance masters. More into Cubism? With a quick click - now the gallery is full of a completely different genre. With new AR features, we can actually build the gallery in our own space - and just as easily swap out the art - all in our browser! \n In this talk, we’ll walk through the steps to build a virtual ARt gallery, with web technology available today, but also take a peek at the new WebXR technology that is coming to our browsers soon!",
+      "description": "The world of virtual reality allows us to build new 3D interactive spaces that we can fill with anything we want - like the art of the great Renaissance masters. More into Cubism? With a quick click - now the gallery is full of a completely different genre. With new AR features, we can actually build the gallery in our own space - and just as easily swap out the art - all in our browser!\n\nIn this talk, we’ll walk through the steps to build a virtual ARt gallery, with web technology available today, but also take a peek at the new WebXR technology that is coming to our browsers soon!",
       "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "doug" ],
       "title" : "Building an ARt Gallery in the Browser"
     },
     "52" : {
-      "description" : "Talk 1: This talk presents an overview of Digital Wellbeing for Android. We will dive in to what “Digital Wellbeing” means and the difficult problem it aims to solve. We will discuss some of the specific features launched and get an inside view into what building a new feature looks like at Google. \n Talk 2: The talk will consist of a brief introduction to intellectual property rights that may be utilized by businesses to protect their intellectual property (e.g. their technology, code, brand name, etc.). The basic requirements for obtaining patents will be discussed, with special focus on the requirements and challenges related to Software and Machine learning patents. The talk will also briefly include a discussion regarding benefits of patents and open source software licensing, and how the two may fit together.",
+      "description" : "Talk 1: This talk presents an overview of Digital Wellbeing for Android. We will dive in to what “Digital Wellbeing” means and the difficult problem it aims to solve. We will discuss some of the specific features launched and get an inside view into what building a new feature looks like at Google.\n\nTalk 2: The talk will consist of a brief introduction to intellectual property rights that may be utilized by businesses to protect their intellectual property (e.g. their technology, code, brand name, etc.). The basic requirements for obtaining patents will be discussed, with special focus on the requirements and challenges related to Software and Machine learning patents. The talk will also briefly include a discussion regarding benefits of patents and open source software licensing, and how the two may fit together.",
       "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "anna", "nusrat" ],
-      "title" : "Talk 1: Digital Wellbeing Tech Talk \n Talk 2: Patents for Software and AI inventions"
+      "title" : "Talk 1: Digital Wellbeing Tech Talk\n\nTalk 2: Patents for Software and AI inventions"
     },
 
     "60" : {
@@ -260,21 +260,21 @@
 
     "70" : {
       "description" : "Comedy Talk",
-      "complexity" : "Introductory or no knowledge required by audience",
+      "complexity" : "Comedy Talk",
       "language" : "English",
       "speakers" : [ "chet", "romain" ],
       "title" : "Chet Haase & Romain Guy"
     },
 
     "81" : {
-      "description": "In the past years, Kubernetes has been the nucleus of container orchestration frameworks. With the growing number of microservices in a cluster, scalability is one of the core pillars for a fault-tolerant application. Additionally, from a technological landscape standpoint, the cloud platform teams are highly focused on delivering scalable, reliable and highly available platforms. A considerable principle for these platforms is cloud agnosticism, where a tech stack can be replicated independent of the cloud provider and region. This can be achieved with Cluster API, which is an emerging tool in the cloud native landscape. \n During this talk you will learn how to approach ClusterAPI on a Kubernetes centric infrastructure. Attendees will leave with an understanding of the Cluster API composition, and scenarios where these tools can be utilised.",
+      "description": "In the past years, Kubernetes has been the nucleus of container orchestration frameworks. With the growing number of microservices in a cluster, scalability is one of the core pillars for a fault-tolerant application. Additionally, from a technological landscape standpoint, the cloud platform teams are highly focused on delivering scalable, reliable and highly available platforms. A considerable principle for these platforms is cloud agnosticism, where a tech stack can be replicated independent of the cloud provider and region. This can be achieved with Cluster API, which is an emerging tool in the cloud native landscape.\n\nDuring this talk you will learn how to approach ClusterAPI on a Kubernetes centric infrastructure. Attendees will leave with an understanding of the Cluster API composition, and scenarios where these tools can be utilised.",
       "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "katie" ],
       "title" : "ClusterAPI: a guide to get started "
     },
     "82" : {
-      "description": "I want to optimize the performance of my cloud components, to save money, but most importantly to improve responsiveness. Nobody enjoys slow software... \n My key advice is to consider the whole picture, to measure, and to focus on the bottlenecks. \n I will tell the story of a cool app written in Go using App Engine and GKE, which has latency problems. Let's explore how to diagnose it with the tooling: Benchmarks, Pprof, CPU Trace, Flame graphs, OpenTelemetry, and StackDriver's waterfalls. \n Once I am able to visualize the latencies, it becomes much easier to incrementally make my app faster!",
+      "description": "I want to optimize the performance of my cloud components, to save money, but most importantly to improve responsiveness. Nobody enjoys slow software...\n\nMy key advice is to consider the whole picture, to measure, and to focus on the bottlenecks.\n\nI will tell the story of a cool app written in Go using App Engine and GKE, which has latency problems. Let's explore how to diagnose it with the tooling: Benchmarks, Pprof, CPU Trace, Flame graphs, OpenTelemetry, and StackDriver's waterfalls.\n\nOnce I am able to visualize the latencies, it becomes much easier to incrementally make my app faster!",
       "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "valentin" ],
@@ -289,8 +289,8 @@
     },
 
     "101" : {
-      "description" : "Securing data is an understood task - it’s doable and achievable if you work hard and pay attention. Securing *SHARED* data is a mess of all-or-nothing access, contracts and hope \n Gospel Technology has worked out how to solve the problem - we use a blockchain for creating an audit log and patented methods for consensus on READING data OUT to ensure reads are always logged and only granted to those with permissions, even as your data extends into a partner organisation beyond your access controls and policy enforcing middleware. \n We are cloud native and google loving - starting our dev education in the GDG community, helping devs build PII sharing solutions for the NHS, Defence, ML model building etc.",
-      "complexity" : "Intermediate or some knowledge required by audience \n Introductory or no knowledge required by audience",
+      "description" : "Securing data is an understood task - it’s doable and achievable if you work hard and pay attention. Securing *SHARED* data is a mess of all-or-nothing access, contracts and hope\n\nGospel Technology has worked out how to solve the problem - we use a blockchain for creating an audit log and patented methods for consensus on READING data OUT to ensure reads are always logged and only granted to those with permissions, even as your data extends into a partner organisation beyond your access controls and policy enforcing middleware.\n\nWe are cloud native and google loving - starting our dev education in the GDG community, helping devs build PII sharing solutions for the NHS, Defence, ML model building etc.",
+      "complexity" : "Intermediate or some knowledge required by audience\n\nIntroductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "gus" ],
       "title" : "Use GKE, DLT/Blockchain to securely share incredibly sensitive PII data in the cloud. "
@@ -309,7 +309,8 @@
       "title" : "Nick - TBC"
     },
     "112" : {
-      "complexity" : "If you are new to Kotlin, this is a great talk for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.",
+      "description" : "If you are new to Kotlin, this is a great talk for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.",
+      "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "kubra" ],
       "title" : "What I learned from a major sports brand app?"
