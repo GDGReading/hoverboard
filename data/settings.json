@@ -1,21 +1,20 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Reading",
+    "twitter": "gdgreading",
+    "url": "https://www.gdgreading.dev/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-10-263T09:00:00+00:00",
+  "endDate": "2019-10-26T19:00:00+00:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#448AFF",
+    "backgroundColor": "#303F9F"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "en-UK"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "showSessionShortAbstract": true,
   "navigation": [
@@ -38,18 +37,13 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "GDG Reading DevFest 2019",
       "background": {
-        "color": "#673ab7",
+        "color": "#303F9F",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -64,8 +58,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
@@ -114,20 +108,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "The Curious Lounge",
+    "city": "Reading",
+    "short": "Reading, UK",
+    "address": "20 Tudor Rd, Reading, UK RG1 1NH",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 51.459133,
+      "longitude": -0.976495,
+      "zoom": 8.5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 51.333,
+      "longitude": -0.463
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "The Curious Longe. Opening in Autumn 2019, a centrally located space for the creative, digital & tech communities in Reading (RG1)."
   },
   "mediaQueries": {
     "xs": {
@@ -149,23 +143,19 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Reading-Thames-Valley/events/262918960/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgreadinguk/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://twitter.com/gdgreading/"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UC0nZUldcH1GVWcEs_b2_wHQ"
       }
     ],
     "share": [
@@ -179,23 +169,13 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "gdgreading@gmail.com",
   "signInProviders": {
     "providersData": [
       {
         "name": "google",
         "label": "Sign in with Google",
         "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
@@ -208,17 +188,11 @@
     "schedule": {
       "itemsCount": 2
     },
-    "blog": {
+    "speakers": {
       "itemsCount": 3
     },
-    "speakers": {
-      "itemsCount": 4
-    },
     "previousSpeakers": {
-      "itemsCount": 6
-    },
-    "tickets": {
-      "itemsCount": 5
+      "itemsCount": 4
     }
   }
 }

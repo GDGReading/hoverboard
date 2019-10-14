@@ -1,16 +1,16 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
-  "analytics": "UA-43643469-9",
+  "url": "https://gdgreading-devfest19.firebaseapp.com/",
+  "analytics": "206788093",
   "prefix": "/",
   "firebase": {
     "appId": "",
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
-    "messagingSenderId": "516409946568"
+    "apiKey": "AIzaSyDjZME7TZ3izMcCPiJ2YDnoIZepO1PTHp4",
+    "authDomain": "gdgreading-devfest19.firebaseapp.com",
+    "databaseURL": "https://gdgreading-devfest19.firebaseio.com",
+    "projectId": "gdgreading-devfest19",
+    "storageBucket": "gdgreading-devfest19.appspot.com",
+    "messagingSenderId": "277632657233"
   },
-  "googleMapApiKey": ""
+  "googleMapApiKey": "AIzaSyDjZME7TZ3izMcCPiJ2YDnoIZepO1PTHp4"
 }
