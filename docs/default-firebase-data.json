@@ -103,7 +103,7 @@
         "sessions" : [ {
           "items" : [ 41 ]
         }, {
-          "items" : [ 42 ]
+          "items" : [ 82 ]
         }, {
           "extend" : 2,
           "items" : [ 43 ]
@@ -134,7 +134,7 @@
         "sessions" : [ {
           "items" : [ 81 ]
         }, {
-          "items" : [ 82 ]
+          "items" : [ 42 ]
         } ]
       }, {
         "startTime" : "15:20",
