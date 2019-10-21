@@ -96,11 +96,6 @@
         "endTime" : "10:50",
         "sessions" : [ {
           "items" : [ 31 ]
-        }, {
-          "items" : [ 0 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 32 ]
         } ]
       }, {
         "startTime" : "11:00",
@@ -109,6 +104,9 @@
           "items" : [ 41 ]
         }, {
           "items" : [ 42 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 43 ]
         } ]
       }, {
         "startTime" : "12:00",
