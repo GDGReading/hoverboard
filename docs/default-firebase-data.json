@@ -309,9 +309,11 @@
     },
 
     "111" : {
+      "description" : "Cloud Run is a serverless container runtime from Google. It allows your Docker containers to be run either in a fully managed environment or on GKE using Knative.\n\nWe explore the features of Cloud Run, get a deep technical understanding of how it works, and what type of workloads it would be suitable for.\n\nDemos will be included!",
+      "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "nick" ],
-      "title" : "Nick - TBC"
+      "title" : "Get going with Cloud Run"
     },
     "112" : {
       "description" : "If you are new to Kotlin, this is a great talk for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.",
@@ -530,6 +532,24 @@
         "link" : "https://www.linkedin.com/in/kubraharmankaya"
       } ],
       "title" : "Android Developer"
+    },
+    "nick" : {
+      "name" : "Nick Joyce",
+      "featured" : false,
+      "photo" : "/images/team/nick.png",
+      "photoUrl" : "/images/team/nick.png",
+      "company" : "Real Kinetic",
+      "country" : "UK",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/nick_joyce",
+        "name" : "Twitter"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nick-joyce/",
+        "name": "LinkedIn"
+      } ],
+      "title" : "Cloud DevOps specialist/GDE"
     },
     "anna" : {
       "name" : "Anna Zappone",
