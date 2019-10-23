@@ -205,7 +205,7 @@
       "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "chet", "romain" ],
-      "title" : "The evolution and changes in Android over time"
+      "title" : "Android Then and Now: The Evolution of a Platform"
     },
     "32" : {
       "language" : "English",
@@ -562,7 +562,41 @@
       "country" : "UK",
       "socials" : [ ],
       "title" : "Software Engineer III on Android Digital Wellbeing"
-    }    
+    }, 
+    "charlene" : {
+      "name" : "Charlene Hunter",
+      "featured" : false,
+      "bio" : "Charlene is a Senior Developer with over 10 years experience, and is passionate about improving diversity in the tech sector. She started her career following completing her MSc in Computer Science in a graduate role, and now works as an independent contractor. \n\nCharlene set up Coding Black Females in 2017 with the aim of growing and supporting the community of Black female developers. In 2018, she co-founded Meet Up And Code which unites developers once a month to code together and socialise.",
+      "shortBio" : "Charlene is a Senior Developer with over 10 years experience, and is passionate about improving diversity in the tech sector.",
+      "photo" : "/images/people/charlene.jpeg",
+      "photoUrl" : "/images/people/charlene.jpeg",
+      "company" : "Coding Black Females",
+      "country" : "UK",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/charlenehunterf",
+        "name" : "Twitter"
+      } ],
+      "title" : "Cloud DevOps specialist/GDE"
+    },
+    "noa" : {
+      "name" : "Noa Havazelet",
+      "featured" : true,
+      "bio" : "High performing, innovative and results driven manager with 10+ years of global experience in consulting, Sales and Marketing across B2B and B2C.\n\nExpertise in strategy & ops, quantitative marketing, growth analysis, go-to-market sales strategies and stakeholder management.\n\nNoa is passionate about technology, people and the outcome when combining both.",
+      "shortBio" : "High performing, innovative and results driven manager with 10+ years of global experience in consulting...",
+      "photo" : "/images/people/noa.jpg",
+      "photoUrl" : "/images/people/noa.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/companies/google.svg",
+      "companyLogoUrl" : "/images/companies/google.svg",
+      "country" : "UK",
+      "socials" : [ {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/noa-havazelet-4a892a49/",
+        "name": "LinkedIn"
+      } ],
+      "title" : "Developer Relations Regional Lead"
+    }
   },
   "team" : [ {
     "members" : [ {
