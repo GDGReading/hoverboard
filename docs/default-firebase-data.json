@@ -96,11 +96,6 @@
         "endTime" : "10:50",
         "sessions" : [ {
           "items" : [ 31 ]
-        }, {
-          "items" : [ 0 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 32 ]
         } ]
       }, {
         "startTime" : "11:00",
@@ -108,7 +103,10 @@
         "sessions" : [ {
           "items" : [ 41 ]
         }, {
-          "items" : [ 42 ]
+          "items" : [ 82 ]
+        }, {
+          "extend" : 2,
+          "items" : [ 43 ]
         } ]
       }, {
         "startTime" : "12:00",
@@ -136,7 +134,7 @@
         "sessions" : [ {
           "items" : [ 81 ]
         }, {
-          "items" : [ 82 ]
+          "items" : [ 42 ]
         } ]
       }, {
         "startTime" : "15:20",
@@ -207,7 +205,7 @@
       "complexity" : "Introductory or no knowledge required by audience",
       "language" : "English",
       "speakers" : [ "chet", "romain" ],
-      "title" : "The evolution and changes in Android over time"
+      "title" : "Android Then and Now: The Evolution of a Platform"
     },
     "32" : {
       "language" : "English",
@@ -229,7 +227,7 @@
       "title" : "OpenMined: Toward a Privacy-Preserving NLP Library"
     },
     "43" : {
-      "description": "ML interpretability",
+      "description": "Being able to communicate how machine learning predictions are made can provide a foundation for fairness, accountability and transparency in their use. Complex models such as tree ensembles and neural networks can capture the non-linearities of real world datasets, but there is a challenge in being able to communicate how specific predictions are made. Referring to model performance metrics such as ROC or RMSE often won’t help either a domain expert or a business decision maker.\n\nThe workshop will therefore focus on interpretability techniques, such as variable importance, effects plots and newer tools such as SHAP and BREAKDOWN.\n\nThe workshop will demonstrate these open source tools and techniques with notebooks in Python and R.\n\nPrerequisites\n\nUp-to-date Chrome or Firefox browsers.",
       "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "dean" ],
@@ -311,9 +309,11 @@
     },
 
     "111" : {
+      "description" : "Cloud Run is a serverless container runtime from Google. It allows your Docker containers to be run either in a fully managed environment or on GKE using Knative.\n\nWe explore the features of Cloud Run, get a deep technical understanding of how it works, and what type of workloads it would be suitable for.\n\nDemos will be included!",
+      "complexity" : "Intermediate or some knowledge required by audience",
       "language" : "English",
       "speakers" : [ "nick" ],
-      "title" : "Nick - TBC"
+      "title" : "Get going with Cloud Run"
     },
     "112" : {
       "description" : "If you are new to Kotlin, this is a great talk for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices.",
@@ -430,10 +430,16 @@
     "dean" : {
       "name" : "Dean Allsop",
       "featured" : false,
+      "photo" : "/images/people/dean.jpg",
+      "photoUrl" : "/images/people/dean.jpg",
+      "company" : "Freelance",
       "bio" : "Dean Allsopp is a database programmer/architect turned data scientist. Aiming to help business use machine learning responsibly.",
       "shortBio" : "Dean Allsopp is a database programmer/architect turned data scientist. Aiming to help business use machine learning responsibly.",
       "country" : "UK",
-      "socials" : [ ]
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/deanallsopp/"
+      } ]
     },
     "chet" : {
       "name" : "Chet Haase",
@@ -533,6 +539,24 @@
       } ],
       "title" : "Android Developer"
     },
+    "nick" : {
+      "name" : "Nick Joyce",
+      "featured" : false,
+      "photo" : "/images/team/nick.png",
+      "photoUrl" : "/images/team/nick.png",
+      "company" : "Real Kinetic",
+      "country" : "UK",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://www.twitter.com/nick_joyce",
+        "name" : "Twitter"
+      }, {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nick-joyce/",
+        "name": "LinkedIn"
+      } ],
+      "title" : "Cloud DevOps specialist/GDE"
+    },
     "anna" : {
       "name" : "Anna Zappone",
       "featured" : false,
@@ -544,7 +568,41 @@
       "country" : "UK",
       "socials" : [ ],
       "title" : "Software Engineer III on Android Digital Wellbeing"
-    }    
+    }, 
+    "charlene" : {
+      "name" : "Charlene Hunter",
+      "featured" : false,
+      "bio" : "Charlene is a Senior Developer with over 10 years experience, and is passionate about improving diversity in the tech sector. She started her career following completing her MSc in Computer Science in a graduate role, and now works as an independent contractor. \n\nCharlene set up Coding Black Females in 2017 with the aim of growing and supporting the community of Black female developers. In 2018, she co-founded Meet Up And Code which unites developers once a month to code together and socialise.",
+      "shortBio" : "Charlene is a Senior Developer with over 10 years experience, and is passionate about improving diversity in the tech sector.",
+      "photo" : "/images/people/charlene.jpeg",
+      "photoUrl" : "/images/people/charlene.jpeg",
+      "company" : "Coding Black Females",
+      "country" : "UK",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/charlenehunterf",
+        "name" : "Twitter"
+      } ],
+      "title" : "Cloud DevOps specialist/GDE"
+    },
+    "noa" : {
+      "name" : "Noa Havazelet",
+      "featured" : true,
+      "bio" : "High performing, innovative and results driven manager with 10+ years of global experience in consulting, Sales and Marketing across B2B and B2C.\n\nExpertise in strategy & ops, quantitative marketing, growth analysis, go-to-market sales strategies and stakeholder management.\n\nNoa is passionate about technology, people and the outcome when combining both.",
+      "shortBio" : "High performing, innovative and results driven manager with 10+ years of global experience in consulting...",
+      "photo" : "/images/people/noa.jpg",
+      "photoUrl" : "/images/people/noa.jpg",
+      "company" : "Google",
+      "companyLogo" : "/images/companies/google.svg",
+      "companyLogoUrl" : "/images/companies/google.svg",
+      "country" : "UK",
+      "socials" : [ {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/noa-havazelet-4a892a49/",
+        "name": "LinkedIn"
+      } ],
+      "title" : "Developer Relations Regional Lead"
+    }
   },
   "team" : [ {
     "members" : [ {
@@ -623,16 +681,6 @@
       } ],
       "order": 5,
       "title" : "Co-Organiser, Cloud Specialist"
-    }, {
-      "name" : "Ming Gao",
-      "photoUrl" : "/images/team/ming.jpg",
-      "socials" : [ {
-        "icon": "linkedin",
-        "link": "https://www.linkedin.com/in/ming-gao-a3759257/",
-        "name": "LinkedIn"
-      } ],
-      "order": 6,
-      "title" : "Co-Organiser, ML Specialist"
     }, {
       "name": "Ashnita Bali",
       "photoUrl": "/images/team/ashnita.jpg",

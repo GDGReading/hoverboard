@@ -45,7 +45,16 @@
             "value": "same-origin"
           }
         ]
-      }
+      },
+      {
+				"source": "service-worker.js",
+				"headers": [
+					{
+						"key": "Cache-Control",
+						"value": "max-age=0"
+					}
+				]
+			}
     ]
   },
   "functions": {
